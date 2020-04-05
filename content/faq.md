@@ -1,18 +1,18 @@
 ---
-title: "Faq"
+title: Faq
 weight: 1
-# bookFlatSection: false
-# bookToc: true
-# bookHidden: false
-# bookCollapseSection: false
-# bookComments: true
+date: 2020-04-05T17:26:17.656Z
+description: Întrebări frecvente
 ---
-
 {{< expand "Cum îmi creez cont">}}
 
 ## Titlu
 
-Descriere pași...
+Trebuie să intre pe aplicație și să apeși butonul "creează cont"
+
+![](/img/screenshot_3.jpg)
+
+
 
 {{< /expand >}}
 
