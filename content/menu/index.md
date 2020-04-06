@@ -2,8 +2,13 @@
 headless = true
 +++
 
-- [Întrebări frecvente]({{< relref "/faq" >}})
-- Reguli
-  - [Reguli generale]({{< relref "/reguli-generale" >}})
-  - [Reguli editare]({{< relref "/reguli-editare" >}})
-  - [Reguli creare]({{< relref "/reguli-creare" >}})
+- [Întrebări frecvente]({{< relref "/intrebari-frecvente" >}})
+- Profesori
+  - [Crearerea materialelor pe platformă]({{< relref "/creare-materiale" >}})
+    - [Reguli generale]({{< relref "/reguli-generale" >}})
+    - [Capitole și lecții]({{< relref "/capitole-si-lectii" >}})
+    - [Structura unei lecții]({{< relref "/structura-unei-lectii" >}})
+    - [Exerciții, teste, videouri]({{< relref "/exercitii-teste-videouri" >}})
+    - [Opțiuni la crearea unui material]({{< relref "/optiuni-la-crearea-unui-material" >}})
+    - [Întrebări]({{< relref "/intrebari" >}})
+    - [Răspunsuri]({{< relref "/raspunsuri" >}})
