@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://help.asq.ro/"
 languageCode = "ro-ro"
 title = "ASQ Help"
 theme = "book"
