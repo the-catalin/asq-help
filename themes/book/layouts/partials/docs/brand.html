@@ -1,8 +1,10 @@
 <h2 class="book-brand">
-  <a href="{{ .Site.BaseURL | relLangURL }}">
-    {{- with .Site.Params.BookLogo -}}
-    <img src="{{ . | relURL }}" alt="Logo" />
-    {{- end -}}
-    <!-- <span>{{ .Site.Title }}</span> -->
-  </a>
+  <a href="https://asq.ro" class="asq-home-link">
+    <-- Mergi înapoi la site </a>
+      <a href="{{ .Site.BaseURL | relLangURL }}">
+        {{- with .Site.Params.BookLogo -}}
+        <img src="{{ . | relURL }}" alt="Logo" />
+        {{- end -}}
+        <!-- <span>{{ .Site.Title }}</span> -->
+      </a>
 </h2>

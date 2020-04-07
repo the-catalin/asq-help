@@ -22,7 +22,7 @@ weight: 1
 
 4. Materialele trebuie să fie, pe cât posibil, încadrate corect la capitolele și lecțiile corespunzătoare, în concordanță cu programa școlară. Citește mai multe despre [regulile la crearea capitolelor și lecțiilor](/capitole-si-lectii/).
 
-5. Numărul de întrebări din cadrul unui exercițiu sau test trebuie calibrat corespunzător, în principal în funcție de timpul total necesar pentru rezolvarea materialului. De exemplu, nu este potrivit ca un test să aibă o singură întrebare la care răspunsul poate fi dat în câteva secunde de către majoritatea elevilor. Citește mai multe despre [regulile la crearea materialelor](/optiuni-la-crearea-unui-material/).
+5. Numărul de întrebări din cadrul unui exercițiu sau test trebuie calibrat corespunzător, în principal în funcție de timpul total necesar pentru rezolvarea materialului. De exemplu, nu este potrivit ca un test să aibă o singură întrebare la care răspunsul poate fi dat în câteva secunde de către elevi. Citește mai multe despre [regulile la crearea materialelor](/optiuni-la-crearea-unui-material/).
 
 6. Enunțul trebuie să fie foarte clar pentru fiecare întrebare. Chiar dacă cerința este aceeași pentru mai multe întrebări din cadrul aceluiași test, aceasta trebuie specificată pentru fiecare întrebare în parte. Citește mai multe despre [regulile la crearea întrebărilor](/intrebari/).
 
