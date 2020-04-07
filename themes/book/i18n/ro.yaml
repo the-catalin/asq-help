@@ -1,0 +1,14 @@
+- id: Search
+  translation: Caută...
+
+- id: Edit this page
+  translation: Modifică această pagină
+
+- id: Last modified by
+  translation: Modificat ultima dată de către
+
+- id: Expand
+  translation: Mărește
+
+- id: bookSearchConfig
+  translation: "{ cache: true }"
