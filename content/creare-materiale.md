@@ -43,10 +43,10 @@ Materialele pe care le poți vedea acum pe aplicație au fost create de către p
 
 Pentru a asigura un standard de calitate și un aspect uniform al întregului conținut de pe aplicație, te rugăm să citești următorul set de reguli ce trebuie respectate la crearea materialelor:
 
-* \[Reguli generale]({{< relref "/reguli-generale" >}})
-* \[Capitole și lecții]({{< relref "/capitole-si-lectii" >}})
-* \[Structura unei lecții]({{< relref "/structura-unei-lectii" >}})
-* \[Exerciții, teste, videouri]({{< relref "/exercitii-teste-videouri" >}})
-* \[Opțiuni la crearea unui material]({{< relref "/optiuni-la-crearea-unui-material" >}})
-* \[Întrebări]({{< relref "/intrebari" >}})
-* \[Răspunsuri]({{< relref "/raspunsuri" >}})
+* [Reguli generale]({{< relref "/reguli-generale" >}})
+* [Capitole și lecții]({{< relref "/capitole-si-lectii" >}})
+* [Structura unei lecții]({{< relref "/structura-unei-lectii" >}})
+* [Exerciții, teste, videouri]({{< relref "/exercitii-teste-videouri" >}})
+* [Opțiuni la crearea unui material]({{< relref "/optiuni-la-crearea-unui-material" >}})
+* [Întrebări]({{< relref "/intrebari" >}})
+* [Răspunsuri]({{< relref "/raspunsuri" >}})
