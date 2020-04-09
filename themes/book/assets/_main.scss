@@ -136,6 +136,20 @@ ul.pagination {
   }
 }
 
+.book-menu > nav > ul > li:nth-child(1) {
+  margin-bottom: 30px !important;
+}
+
+.book-menu > nav > ul > li:nth-child(2) {
+  font-weight: normal !important;
+  cursor: default !important;
+  color: rgba(60, 65, 86, 0.7);
+}
+.book-menu > nav > ul > li:nth-child(2) > ul > li {
+  color: $body-font-color !important;
+  font-weight: 500 !important;
+}
+
 .book-section-flat {
   margin-bottom: $padding-16 * 2;
 
@@ -319,6 +333,10 @@ aside nav,
   transition: 0.2s ease-in-out;
   transition-property: transform, margin, opacity;
   will-change: transform, margin;
+}
+
+.inline-image {
+  display: inline-block;
 }
 
 @media screen and (max-width: $mobile-breakpoint) {

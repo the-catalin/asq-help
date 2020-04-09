@@ -33,6 +33,8 @@ Desigur, elevul poate "păcăli" acest sitem de exerciții, notându-și pe o fo
 La crearea exercițiilor de către profesori, gradul de dificultate al acestora trebuie să crască treptat.
 Este bine de asemenea ca numărul total de exerciții să fie suficient, pentru a ne asigura că elevilor le sunt prezentate întrebări cu ajutorul cărora să exerseze informațiile noi în cât mai multe contexte și de un număr de ori suficient de mare astfel încât noțiunile să se cimenteze cu ușurință.
 
+Exercițiile își ating cel mai bine scopul atunci când, la crearea acestora, pe lângă răspunsul corect, toate întrebările sunt însoțite și de câte o explicație cu modul de rezolvare corect al cerinței. Astfel, atunci când creezi o întrebare pentru un exercițiu, poți adăuga și detaliile de rezolvare în chenarul **Soluție**.
+
 ---
 
 # Teste
