@@ -12,3 +12,6 @@ headless = true
     - [Opțiuni la crearea unui material]({{< relref "/optiuni-la-crearea-unui-material" >}})
     - [Întrebări]({{< relref "/intrebari" >}})
     - [Răspunsuri]({{< relref "/raspunsuri" >}})
+      - [Răspunsuri și variante]({{< relref "/raspunsuri-si-variante" >}})
+      - [Căsuțe de input]({{< relref "/casute-de-input" >}})
+      - [Răspunsuri tip grilă]({{< relref "/raspunsuri-tip-grila" >}})

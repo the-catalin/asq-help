@@ -51,7 +51,7 @@ Marcarea unui material ca fiind invizibil mai este utilă atunci când nu ai ter
 
 # Ce înseamnă "disponibil tuturor utilizatorilor"?
 
-Această opțiune este explicată pe larg [aici](/creare-materiale/).
+Această opțiune este explicată pe larg [aici]({{< relref "/creare-materiale#cum-sunt-folosite-materialele-create-de-mine" >}}).
 
 ---
 

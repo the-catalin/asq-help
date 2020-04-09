@@ -48,3 +48,6 @@ Profesorul poate accesa tot istoricul de reîncercări de rezolvare, putând ved
 Testele au un barem de notare de zece puncte, din care un punct este din oficiu. Cele nouă puncte se împart în mod egal la *(atenție!)* numărul de total de [răspunsuri](/raspunsuri/) din cadrul acelui test. În multe cazuri, numărul de întrebări este același cu cel de răspunsuri, dar sunt situații în care o singură întrebare așteaptă mai multe răspunsuri (ex. "aflați pe a și b dintr-o ecuație").
 
 La crearea testului, poți alege să stabilești baremul pentru fiecare răspuns în parte (vezi cum aici).
+
+La fel ca la exerciții, la fiecare lecție ar trebui să avem un număr suficient de mare de teste, pe mai multe nivele, dar și combinate pe grade de dificultate. În acest fel, un număr de 10-20 de teste la o lecție poate fi potrivit atât pentru elev pentru a se testa singur, cât și pentru profesor pentru a avea resurse suficiente de a evalua elevii. Profesorul poate crea în plus teste ascunse, despre care poți citi mai multe [aici]({{< relref "/optiuni-la-crearea-unui-material#ce-reprezintă-test-vizibil">}}).
+Citește mai multe și despre modul în care trebuie [structurată o lecție](/structura-unei-lectii/) pe platforma ASQ.
