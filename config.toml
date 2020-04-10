@@ -3,6 +3,7 @@ languageCode = "ro-ro"
 title = "ASQ Help"
 theme = "book"
 defaultContentLanguage = "ro"
+googleAnalytics = "UA-106398114-1"
 
 [params]
   # (Optional, default true) Controls table of contents visibility on right side of pages.
