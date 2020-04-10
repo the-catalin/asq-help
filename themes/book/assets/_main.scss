@@ -116,9 +116,8 @@ ul.pagination {
     width: $menu-width;
     padding: $padding-16;
     background-color: rgb(247, 250, 252);
-    border-right: 1px solid rgba(60, 65, 86, 0.1);
 
-    @include fixed;
+    // @include fixed;
   }
 
   a {
@@ -174,6 +173,7 @@ ul.pagination {
   padding: $padding-16;
   background-color: $white;
   border-right: 1px solid rgba(60, 65, 86, 0.1);
+  border-left: 1px solid rgba(60, 65, 86, 0.1);
 }
 
 .book-post {
