@@ -1,6 +1,6 @@
 ---
 title: Cum pot să mut elevii dintr-o clasă în alta
-date: "2020-04-06T21:11:08.000Z"
+date: 2020-04-06T21:11:08.000Z
 description: Cum pot să mut elevii dintr-o clasă în alta
 ---
 
@@ -8,7 +8,7 @@ description: Cum pot să mut elevii dintr-o clasă în alta
 
 # Cum pot să mut elevii dintr-o clasă în alta?
 
-Profesorii nu au o funcționalitate deticată în aplicație pentru a face acest lucru.
+Profesorii nu au o funcționalitate dedicată în aplicație pentru a face acest lucru.
 
 Singura opțiune este ca mutarea să se facă din contul elevului. Mai exact, in zona acestuia de profil, își schimbă singur clasa.
 
