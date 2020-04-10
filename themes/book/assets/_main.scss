@@ -364,6 +364,7 @@ aside nav,
 
   .book-header {
     display: block;
+    margin-bottom: 30px;
   }
 
   #menu-control:checked + main {
@@ -390,6 +391,10 @@ aside nav,
   #toc-control:checked + aside {
     display: block;
   }
+}
+
+label[for="toc-control"] {
+  visibility: hidden;
 }
 
 // Extra space for big screens

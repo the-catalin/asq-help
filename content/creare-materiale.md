@@ -3,6 +3,7 @@ title: Creare materiale
 date: "2020-04-06T21:11:08.000Z"
 description: Creare materiale
 ---
+
 # Ce reprezintă "materialele" pe platforma ASQ?
 
 În prezent, **un material** pe ASQ poate însemna:

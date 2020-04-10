@@ -1,5 +1,5 @@
 ---
-title: "Reguli Generale"
+title: "Reguli generale"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -8,7 +8,7 @@ weight: 1
 # bookComments: true
 ---
 
-# Reguli Generale
+# Reguli generale
 
 1. Toate cuvintele în limba română trebuie scrise folosind **diacritice**.
 

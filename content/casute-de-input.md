@@ -1,5 +1,5 @@
 ---
-title: "Casute De Input"
+title: "Căsuțe de input"
 date: 2020-04-07T01:55:19+03:00
 ---
 

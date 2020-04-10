@@ -1,5 +1,5 @@
 ---
-title: "Exercitii Teste Videouri"
+title: "Exerciții, teste, videouri"
 date: 2020-04-07T01:55:05+03:00
 ---
 

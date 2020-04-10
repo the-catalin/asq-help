@@ -1,5 +1,5 @@
 ---
-title: "Capitole și Lectii"
+title: "Capitole și lecții"
 date: 2020-04-07T00:12:36+03:00
 ---
 
