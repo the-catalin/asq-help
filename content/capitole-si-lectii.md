@@ -17,6 +17,6 @@ Deși unele materiale, conform programei, se clasifică pe mai multe categorii s
 
 De aceea, nu ne rămâne decât opțiunea de a balansa între crearea de noi capitole sau de noi lecții.
 
-Această decizie trebuie corelată cu respectarea [structurei unei lecții](/structura-unei-lectii/).
+Această decizie trebuie corelată cu respectarea [structurii unei lecții](/structura-unei-lectii/).
 
 De exemplu, este de preferat crearea de noi lecții sau chiar de noi capitole dacă este cazul, decât să creăm foarte multe materiale în cadrul aceleiași lecții.
