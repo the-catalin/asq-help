@@ -14,7 +14,7 @@ Singura opțiune este ca mutarea să se facă din contul elevului. Mai exact, î
 
 Ca profesor, poți face această modificare în locul lui, dacă tu ai fost cel care i-a creat în prealabil contul și îi cunoști deci parola.
 
-Poți urma deci acești pași:
+Poți urma acești pași:
 
 1. Vezi contul și parola elevului: **Clase** > alege clasa > **Conturi** > click pe ochiul din dreptul elevului
 
