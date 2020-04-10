@@ -43,7 +43,7 @@ Testele, la fel ca exercițiile, sunt compuse dintr-o serie de [întrebări](/in
 
 Spre deosebire de exerciții, la teste elevul nu mai primește răspunsurile corecte, ci doar o notă la finalizarea testului.
 
-Elevul poate răspunde la întrebările din cadrul testului în orice ordine dorește, sărind de la o întrebare la alta. Nota nu o va obține decât dacă va răspunde la toate întrebările. De asemenea, el poate reface un test ori de oricâte ori dorește, la fiecare reîncercare trebuind să răspundă doar la întrebările la care a răspuns greșit în prealabil.
+Elevul poate răspunde la întrebările din cadrul testului în orice ordine dorește, sărind de la o întrebare la alta. Nota nu o va obține decât dacă va răspunde la toate întrebările. De asemenea, el poate reface un test ori de câte ori dorește, la fiecare reîncercare trebuind să răspundă doar la întrebările la care a răspuns greșit în prealabil.
 
 Profesorul poate accesa tot istoricul de reîncercări de rezolvare, putând vedea deci și nota obținută la prima rezolvare.
 
