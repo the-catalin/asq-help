@@ -1,6 +1,6 @@
 ---
-title: "Întrebări"
-date: 2020-04-07T01:55:27+03:00
+title: Întrebări
+date: 2020-04-06T22:55:27.000Z
 ---
 
 # Întrebări
@@ -16,7 +16,7 @@ Pentru un aspect uniform al tuturor materialelor de pe aplicație, iată câteva
 - dacă vrei să atașezi o imagine pentru fiecare întrebare, folosește butonul "Încarcă imagine"
 
 **Important!**
-Pentru claritatea fiecărui enunț, chiar dacă cerința de bază este identică pentru întrebări diferite, ea trebuie scrisă (repetată) la fiecare la fiecare întrebare în parte.
+Pentru claritatea fiecărui enunț, chiar dacă cerința de bază este identică pentru întrebări diferite, ea trebuie scrisă (repetată) la fiecare întrebare în parte.
 
 
 **Important!**
