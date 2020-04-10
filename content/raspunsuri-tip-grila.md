@@ -17,3 +17,19 @@ Dacă vrei să oferi posibilitatea de a alege mai multe răspunsuri corecte, tre
 
 
 În acest caz, poate fi uneori utilă atenționarea elevilor printr-o mențiune în textul întrebării că pot exista unul sau mai multe răspunsuri corecte.
+
+---
+
+## Cum creez opțiunile Adevărat/Fals
+
+Întrebările la care vrei să oferi două variante de răspuns, trebuie să aibă răspunsul în format grilă și să respecte literele mari și mici ca mai jos:
+
+![](/img/Screenshot_24.jpg)
+
+---
+
+## Important!
+
+La introducerea variantelor de răspuns în format grilă, nu se folosesc semne de punctuație la sfârșitul opțiunilor:
+
+![](/img/Screenshot_25.jpg)

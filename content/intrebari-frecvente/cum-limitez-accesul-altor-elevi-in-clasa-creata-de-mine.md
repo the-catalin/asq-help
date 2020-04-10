@@ -12,4 +12,4 @@ Pentru a bloca accesul persoanelor neautorizate de a intra într-o clasă navigh
 
 Aici, la sârșitul paginii, dacă eși administrator de clase, ai butonul **Blochează**.
 
-Dacă nu apare acest buton, citește [**aici**](/faq/cum-pot-scoate-contul-unui-elev-din-clasa-mea/) pentru a vedea cum poți deveni administrator de clase pe ASQ la școala din care faci parte.
+Dacă nu apare acest buton, citește [**aici**](/intrebari-frecvente/cum-pot-scoate-contul-unui-elev-din-clasa-mea/) pentru a vedea cum poți deveni administrator de clase pe ASQ la școala din care faci parte.
