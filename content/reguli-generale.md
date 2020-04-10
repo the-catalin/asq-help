@@ -26,15 +26,11 @@ weight: 1
 
 6. Enunțul trebuie să fie foarte clar pentru fiecare întrebare. Chiar dacă cerința este aceeași pentru mai multe întrebări din cadrul aceluiași test, aceasta trebuie specificată pentru fiecare întrebare în parte. Citește mai multe despre [regulile la crearea întrebărilor](/intrebari/).
 
-7. La introducerea răspunsurilor de tip adevărat/fals trebuie respectat acest format:
-   (imagine)
-   și nu astfel
-   (imagine au adevărat/fals cu litere mici, căsuțe în care se cere elevului să introducă a/f)
+7. La introducerea răspunsurilor de tip adevărat/fals trebuie respectat formatul descris [aici](/raspunsuri-tip-grila#cum-creez-opțiunile-adevăratfals).
 
-   Tot la introducerea răspunsurilor de tip grilă, nu se folosesc semnele de punctuație la sfărșitul fiecărei variante (virgulă, punct și virgulă, punct)
-   (imagine așa da / așa nu)
+   Tot la introducerea răspunsurilor de tip grilă, nu se folosesc semnele de punctuație la sfărșitul fiecărei variante, ca în poza de [aici](/raspunsuri-tip-grila#important).
 
    Citește mai multe despre [regulile la introducerea răspunsurilor](/raspunsuri/).
 
-8. Dacă ai bifat opțiunea "Publică numele meu ca autor", asigură-te că numele tău este scris corect în zona de profil. Nu trebuie să fie scris, de exemplu, doar cu litere mari. Vezi cum îți poți modifica numele aici.
+8. Dacă ai bifat opțiunea "Publică numele meu ca autor", asigură-te că numele tău este scris corect în zona de profil. Nu trebuie să fie scris, de exemplu, doar cu litere mari. Pentru a-ți modifica numele, mergi la **Profil > modifică > editează date personale**.
 

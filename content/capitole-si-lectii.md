@@ -7,8 +7,6 @@ date: 2020-04-07T00:12:36+03:00
 
 În mod ideal, toate capitolele și lecțiile trebuie să corespundă cu programa școlară în vigoare.
 
-Din cauza modului în care este organizată aplicația ASQ, acest lucru nu este posibil în toate cazurile.
-
 Structura de informații pe ASQ a fost concepută pe baza unei reguli de clasificare cât mai simple:
 
 Orice material (video, exercițiu, test) trebuie încadrat strict pe baza acestor patru categorii:

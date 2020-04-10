@@ -30,6 +30,6 @@ Dacă vrei să oferi posibilitatea de a alege mai multe răspunsuri corecte, tre
 
 ## Important!
 
-La introducerea variantelor de răspuns în format grilă, nu se folosesc semne de punctuație la sfârșitul opțiunilor:
+La introducerea variantelor de răspuns în format grilă, **nu** se folosesc semne de punctuație la sfârșitul opțiunilor:
 
 ![](/img/Screenshot_25.jpg)
