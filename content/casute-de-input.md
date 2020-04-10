@@ -1,6 +1,6 @@
 ---
-title: "Căsuțe de input"
-date: 2020-04-07T01:55:19+03:00
+title: Căsuțe de input
+date: 2020-04-06T22:55:19.000Z
 ---
 
 
@@ -8,7 +8,7 @@ date: 2020-04-07T01:55:19+03:00
 
 Căsuța de input este un chenar mic gol pe care elevul îl poate completa cu litere sau numere atunci când oferă un răspuns exact.
 
-Ea poate fi introdusă la sfârșitul enunțului sau chiar oriunde în cadrul înrebării.
+Ea poate fi introdusă la sfârșitul enunțului sau chiar oriunde în cadrul întrebării.
 
 Pentru a crea o căsuță de input, nu trebuie decât să scrii astfel în textul întrebării:
 
