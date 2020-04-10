@@ -10,7 +10,7 @@ description: Cum pot să mut elevii dintr-o clasă în alta
 
 Profesorii nu au o funcționalitate dedicată în aplicație pentru a face acest lucru.
 
-Singura opțiune este ca mutarea să se facă din contul elevului. Mai exact, in zona acestuia de profil, își schimbă singur clasa.
+Singura opțiune este ca mutarea să se facă din contul elevului. Mai exact, în zona acestuia de profil, își schimbă singur clasa.
 
 Ca profesor, poți face această modificare în locul lui, dacă tu ai fost cel care i-a creat în prealabil contul și îi cunoști deci parola.
 
