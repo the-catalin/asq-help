@@ -10,4 +10,4 @@ description: Cum pot primi certificat de recunoaștere pentru activitatea mea
 
 Certificatul de recunoaștere este acordat profesorilor care pe lângă faptul că folosesc platofrma ASQ, creează și materiale disponibile tuturor utilizatorilor. Citește mai multe despre cum poți crea astfel de materiale [**aici**](/creare-materiale#cum-sunt-folosite-materialele-create-de-mine).
 
-Scrie-ne la contact@asq.ro dacă ai creat astfel de materiale și dorești să primești certificat.
+Scrie-ne la {{< img src="/img/contact.jpg">}} dacă ai creat astfel de materiale și dorești să primești certificat.

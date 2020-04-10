@@ -233,6 +233,10 @@ ul.pagination {
   }
 }
 
+#book-search-results {
+  padding-left: 10px;
+}
+
 .book-toc {
   flex: 0 0 $toc-width;
   font-size: $font-size-12;
@@ -337,6 +341,15 @@ aside nav,
 
 .inline-image {
   display: inline-block;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.inline-image {
+  position: relative;
+  top: 6px;
 }
 
 @media screen and (max-width: $mobile-breakpoint) {
