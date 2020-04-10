@@ -1,6 +1,6 @@
 ---
-title: "Opțiuni la crearea unui material"
-date: 2020-04-07T01:55:19+03:00
+title: Opțiuni la crearea unui material
+date: 2020-04-06T22:55:19.000Z
 ---
 
 <!-- # Opțiuni la crearea unui material -->
@@ -35,7 +35,7 @@ Este recomandat să dai numere de oridine de acest tip: **10, 20, 30 ...** și n
 
 În cele mai multe situații vor fi folosite cele trei nivele **1 - ușor**, **2 - mediu** și **3 - dificil**.
 
-A nu se confunda niveul cu trei steluțe (**3 - dificil**), cu cel **mediu**. Materialele de nivel mediu trebuie să aibă două steluțe.
+A nu se confunda nivelul cu trei steluțe (**3 - dificil**), cu cel **mediu**. Materialele de nivel mediu trebuie să aibă două steluțe.
 
 ---
 

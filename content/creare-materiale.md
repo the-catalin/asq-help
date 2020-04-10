@@ -1,6 +1,6 @@
 ---
 title: Creare materiale
-date: "2020-04-06T21:11:08.000Z"
+date: 2020-04-06T21:11:08.000Z
 description: Creare materiale
 ---
 
@@ -36,7 +36,7 @@ Dacă bifezi ca un anumit material să fie disponibil tuturor, acesta va putea f
 
 # De ce să creez materiale disponibile tuturor?
 
-Materialele pe care le poți vedea acum pe aplicație au fost create de către profesori ca tine și sunt utilizate gratuit, în fiecare zi, de către zeci de mii de copii din întreaga țară. Te invităm și pe tine să faci parte din comunitatea profesorilor care crează materiale educaționale interactive!
+Materialele pe care le poți vedea acum pe aplicație au fost create de către profesori ca tine și sunt utilizate gratuit, în fiecare zi, de către zeci de mii de copii din întreaga țară. Te invităm și pe tine să faci parte din comunitatea profesorilor care creează materiale educaționale interactive!
 
 - - -
 
