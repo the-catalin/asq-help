@@ -25,4 +25,4 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Path", name: "slug", widget: "slug" }
+      - { label: "Path", name: "slug", widget: "string" }
