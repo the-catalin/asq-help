@@ -22,6 +22,8 @@ description: Întrebări frecvente
 
 - ### [De ce apare 0 în dreptul punctelor XP? De ce se resetează acest punctaj?](/intrebari-frecvente/de-ce-apare-zero-in-dreptul-punctelor-xp/)
 
+- ### [Am întâlnit mai multe greșeli. Ce pot să fac?](/intrebari-frecvente/am-intalnit-mai-multe-greseli-ce-pot-sa-fac/)
+
 ## General
 
 - ### [Cum raportez o greșeală întâlnită la un exercițiu sau test?](/intrebari-frecvente/cum-raportez-o-greseala/)
