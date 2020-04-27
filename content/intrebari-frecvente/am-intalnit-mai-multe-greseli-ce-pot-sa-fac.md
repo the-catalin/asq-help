@@ -12,7 +12,7 @@ Materialele de pe platforma ASQ sunt create în mod gratuit de către profesori 
 
 Atunci când întâlnești o greșeală, scrie-ne un email la {{< img src="/img/contact.jpg">}}. Nu uita să specifici toate detaliile: materia, anul, capitolul, lecția, numele materialului și numărul întrebării (enunțului).
 
-Știm că e neplăcut și frustrant pentru copii atunci când oferă răspunsul corect dar aplicația le spune că a greșit. Iată că și adulții greșesc, nu numai copiii :)
+Știm că e neplăcut și frustrant pentru copii atunci când oferă răspunsul corect, iar aplicația le spune că a greșit. Iată că și adulții greșesc, nu numai copiii :)
 
 
 
