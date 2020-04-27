@@ -14,7 +14,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Path", name: "slug", widget: "slug" }
+      - { label: "Slug", name: "slug", widget: "slug" }
   - name: "Întrebări frecvente"
     label: "Întrebări frecvente"
     folder: "content/intrebari-frecvente"
@@ -25,4 +25,4 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Path", name: "slug", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
