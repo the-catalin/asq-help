@@ -22,7 +22,7 @@ description: Întrebări frecvente
 
 - ### [De ce apare 0 în dreptul punctelor XP? De ce se resetează acest punctaj?](/intrebari-frecvente/de-ce-apare-zero-in-dreptul-punctelor-xp/)
 
-- ### [Am întâlnit mai multe greșeli. Ce pot să fac?](/intrebari-frecvente/2020-04-27-am-întâlnit-mai-multe-greșeli-ce-pot-să-fac/)
+- ### [Am întâlnit mai multe greșeli. Ce pot să fac?](/intrebari-frecvente/am-întâlnit-mai-multe-greșeli-ce-pot-să-fac/)
 
 ## General
 
