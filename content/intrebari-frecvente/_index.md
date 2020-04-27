@@ -23,10 +23,8 @@ slug: intrebari-frecvente
 
 - ### [De ce apare 0 în dreptul punctelor XP? De ce se resetează acest punctaj?](/intrebari-frecvente/de-ce-apare-zero-in-dreptul-punctelor-xp/)
 
-- ### [Am întâlnit mai multe greșeli. Ce pot să fac?](/intrebari-frecvente/am-intalnit-mai-multe-greseli-ce-pot-sa-fac/)
-
 ## General
 
-- ### [Cum raportez o greșeală întâlnită la un exercițiu sau test?](/intrebari-frecvente/cum-raportez-o-greseala/)
+- ### [Am întâlnit mai multe greșeli. Ce pot să fac?](/intrebari-frecvente/am-intalnit-mai-multe-greseli-ce-pot-sa-fac/)
 - ### [Ce reprezintă numerele din dreptul fiecărei materii, capitol sau lecție?](/intrebari-frecvente/ce-reprezinta-numerele-din-dreptul-fiecarei-materii/)
 - ### [Nu găsesc aplicația ASQ pe App Store sau Google Play. Cum procedez?](/intrebari-frecvente/nu-gasesc-aplicatia-asq-pe-app-store-sau-google-play/)
