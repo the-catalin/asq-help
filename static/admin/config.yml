@@ -8,7 +8,7 @@ collections:
     label: "Content"
     folder: "content"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.slug}}"
     editor:
       preview: true
     fields:
@@ -19,7 +19,7 @@ collections:
     label: "Întrebări frecvente"
     folder: "content/intrebari-frecvente"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.slug}}"
     editor:
       preview: true
     fields:
