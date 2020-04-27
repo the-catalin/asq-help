@@ -3,6 +3,7 @@ title: Întrebări frecvente
 weight: 1
 date: 2020-04-05T17:26:17.656Z
 description: Întrebări frecvente
+slug: intrebari-frecvente
 ---
 
 ## Profesori
