@@ -1,6 +1,6 @@
 ---
-title: Cum adaugi un joc
-slug: cum-adaugi-un-joc
+title: Cum integrez jocuri pe aplicația ASQ
+slug: cum-integrez-jocuri-pe-aplicatia-asq
 ---
 
 
