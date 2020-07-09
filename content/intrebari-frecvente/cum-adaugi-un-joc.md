@@ -2,7 +2,7 @@
 title: Cum integrez jocuri pe aplicația ASQ
 slug: cum-integrez-jocuri-pe-aplicatia-asq
 ---
-
+[< Înapoi la **Întrebări frecvente**](/intrebari-frecvente/)
 
 # Cum integrez jocuri pe aplicația ASQ?
 
