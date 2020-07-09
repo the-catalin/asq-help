@@ -13,6 +13,8 @@ Pentru a integra un joc creat pe o platformă de tipul **wardwall.net** sau **cr
 ![](/img/screen-shot-2020-07-09-at-7.53.48-pm.png)
 
 2. Pe aplicația ASQ alegem materia, anul școlar, capitolul și lecția unde ne dorim să introducem jocul.
+
+
 3. Adăugăm un material nou de tip test, iar în căsuța pentru întrebare redăm codul de embed copiat (apăsăm Ctrl+V).
 
 ![](/img/screen-shot-2020-07-09-at-7.55.34-pm.png)
