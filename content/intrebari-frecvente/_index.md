@@ -17,6 +17,7 @@ slug: intrebari-frecvente
 - ### [Pot modifica contul sau parola contului creat de mine?](/intrebari-frecvente/pot-modifica-contul-sau-parola-contului-creat-de-mine/)
 - ### [Cum limitez accesul altor elevi în clasa creată de mine?](/intrebari-frecvente/cum-limitez-accesul-altor-elevi-in-clasa-creata-de-mine/)
 - ### [Cum trebuie să arate un material pentru a fi aprobat?](/intrebari-frecvente/cum-trebuie-sa-arate-un-material-pentru-a-fi-aprobat/)
+- ### [Cum integrez jocuri pe aplicatia ASQ?](/intrebari-frecvente/cum-integrez-jocuri-pe-aplicatia-asq/)
 - ### [Cum pot primi certificat de recunoaștere pentru activitatea mea?](/intrebari-frecvente/cum-pot-primi-certificat-de-recunoastere/)
 
 ## Elevi
