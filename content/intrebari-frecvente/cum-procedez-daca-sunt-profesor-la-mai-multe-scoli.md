@@ -1,7 +1,8 @@
 ---
 title: Cum procedez dacă sunt profesor la mai mule școli
-date: "2020-04-06T21:11:08.000Z"
+date: 2020-04-06T21:11:08.000Z
 description: Cum procedez dacă sunt profesor la mai mule școli
+slug: cum-procedez-daca-sunt-profesor-la-mai-multe-scoli
 ---
 
 [< Înapoi la **Întrebări frecvente**](/intrebari-frecvente/)
