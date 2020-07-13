@@ -1,6 +1,7 @@
 ---
 title: Opțiuni la crearea unui material
 date: 2020-04-06T22:55:19.000Z
+slug: optiuni-la-crearea-unui-material
 ---
 
 <!-- # Opțiuni la crearea unui material -->
