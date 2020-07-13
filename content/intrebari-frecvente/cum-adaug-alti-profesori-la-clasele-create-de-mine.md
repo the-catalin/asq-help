@@ -2,6 +2,7 @@
 title: Cum adaug alți profesori în clasele create de mine
 date: 2020-04-06T21:11:08.000Z
 description: Cum adaug alți profesori în clasele create de mine
+slug: cum-adaug-alti-profesori-la-clasele-create-de-mine
 ---
 
 [< Înapoi la **Întrebări frecvente**](/intrebari-frecvente/)
