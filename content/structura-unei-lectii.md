@@ -1,7 +1,8 @@
 ---
 title: Structura unei lecții
-date: "2020-04-06T22:41:21.000Z"
+date: 2020-04-06T22:41:21.000Z
 description: Structura unei lecții
+slug: structura-unei-lectii
 ---
 # Structura unei lecții
 
