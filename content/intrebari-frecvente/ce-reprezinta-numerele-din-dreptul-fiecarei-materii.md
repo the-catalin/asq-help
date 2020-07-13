@@ -1,7 +1,8 @@
 ---
 title: Ce reprezintă numerele din dreptul fiecărei materii, capitol sau lecție
-date: "2020-04-06T21:11:08.000Z"
+date: 2020-04-06T21:11:08.000Z
 description: Ce reprezintă numerele din dreptul fiecărei materii, capitol sau lecție
+slug: ce-reprezinta-numerele-din-dreptul-fiecarei-materii
 ---
 
 [< Înapoi la **Întrebări frecvente**](/intrebari-frecvente/)
