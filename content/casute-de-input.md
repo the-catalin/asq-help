@@ -1,6 +1,7 @@
 ---
 title: Căsuțe de input
 date: 2020-04-06T22:55:19.000Z
+slug: casute-de-input
 ---
 
 
