@@ -1,6 +1,7 @@
 ---
 title: Întrebări
 date: 2020-04-06T22:55:27.000Z
+slug: intrebari
 ---
 
 # Întrebări
