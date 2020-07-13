@@ -2,6 +2,7 @@
 title: Cum pot să mut elevii dintr-o clasă în alta
 date: 2020-04-06T21:11:08.000Z
 description: Cum pot să mut elevii dintr-o clasă în alta
+slug: cum-pot-sa-mut-elevii-dintr-o-clasa-in-alta
 ---
 
 [< Înapoi la **Întrebări frecvente**](/intrebari-frecvente/)
