@@ -2,6 +2,7 @@
 title: Pot modifica contul sau parola contului creat de mine
 date: 2020-04-06T21:11:08.000Z
 description: Pot modifica contul sau parola contului creat de mine
+slug: pot-modifica-contul-sau-parola-contului-creat-de-mine
 ---
 
 [< Înapoi la **Întrebări frecvente**](/intrebari-frecvente/)
