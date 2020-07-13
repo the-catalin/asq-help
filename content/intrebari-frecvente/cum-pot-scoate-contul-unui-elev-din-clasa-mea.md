@@ -1,7 +1,8 @@
 ---
 title: Cum pot scoate contul unui elev din clasa mea
-date: "2020-04-06T21:11:08.000Z"
+date: 2020-04-06T21:11:08.000Z
 description: Cum pot scoate contul unui elev din clasa mea
+slug: cum-pot-scoate-contul-unui-elev-din-clasa-mea
 ---
 
 [< Înapoi la **Întrebări frecvente**](/intrebari-frecvente/)
