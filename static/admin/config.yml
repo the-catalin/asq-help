@@ -8,18 +8,18 @@ collections:
     label: "Content"
     folder: "content"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.slug}}"
     editor:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Path", name: "slug", widget: "slug" }
+      - { label: "Path", name: "slug", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "Întrebări frecvente"
     label: "Întrebări frecvente"
     folder: "content/intrebari-frecvente"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.slug}}"
     editor:
       preview: true
     fields:
