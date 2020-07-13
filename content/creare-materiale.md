@@ -4,16 +4,31 @@ date: 2020-04-06T21:11:08.000Z
 description: Creare materiale
 slug: creare-materiale
 ---
+# Creare conținut educațional - obiectiv
 
-# Ce reprezintă "materialele" pe platforma ASQ?
+Unul dintre obiectivele platformei ASQ este de a crea și de a oferi gratuit materiale educaționale la toate disciplinele și toți anii de studiu, pentru a oferi tuturor posibilitatea de a avea acces, la un click distanță, la conținut educativ de calitate la orice capitol sau lecție.
+Toate acestea se pot realiza doar cu ajutorul profesorilor specialiști din fiecare domeniu de studiu.
+
+- - -
+
+# De ce să creez materiale disponibile tuturor?
+
+Materialele pe care le poți vedea acum pe aplicație au fost create de către profesori ca tine și sunt utilizate gratuit, în fiecare zi, de către zeci de mii de copii din întreaga țară. Te invităm și pe tine să faci parte din comunitatea profesorilor care creează materiale educaționale interactive!
+
+- - -
+
+# Ce reprezintă „materialele” pe platforma ASQ?
 
 În prezent, **un material** pe ASQ poate însemna:
 
 * un video
 * un exercițiu
 * un test
+* un document
 
 Videourile sunt lecțiile pe care elevii le pot urmări în ritmul lor.
+
+Documentele prezintă lecția în mod sistematic prin text și imagini.
 
 Exercițiile și testele sunt modalități de exersare și evaluare **automată** a cunoștințelor de la fiecare lecție. Toate exercițiile și testele conțin câte un set de [întrebări](/intrebari/) (enunțuri) și fiecare întrebare trebuie să aibă unul sau mai multe [răspunsuri](/raspunsuri/). Asta presupune că, la crearea materialului, profesorul trebuie să introducă atât întrebările **cât și răspunsurile corecte**. Astfel, elevul care va parcurge materialul și va răspunde la întrebări, va fi verificat automat de către sistem.
 Citește aici mai multe detalii despre [exerciții, teste și videouri](/exercitii-teste-videouri).
@@ -32,12 +47,6 @@ Materialele educaționale create de către profesori pe platforma ASQ pot fi uti
 * de către **toți utilizatorii aplicației ASQ**, prin bifarea opțiunii **"disponibil tuturor utilizatorilor"** la crearea fiecărui material
 
 Dacă bifezi ca un anumit material să fie disponibil tuturor, acesta va putea fi accesat de către toți utilizatorii aplicației (după ce va trece printr-un proces de aprobare), contribuind astfel la conținutul disponibil gratuit pe platforma ASQ.
-
-- - -
-
-# De ce să creez materiale disponibile tuturor?
-
-Materialele pe care le poți vedea acum pe aplicație au fost create de către profesori ca tine și sunt utilizate gratuit, în fiecare zi, de către zeci de mii de copii din întreaga țară. Te invităm și pe tine să faci parte din comunitatea profesorilor care creează materiale educaționale interactive!
 
 - - -
 
