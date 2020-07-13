@@ -1,6 +1,7 @@
 ---
 title: Exerciții, teste, videouri
 date: 2020-04-06T22:55:05.000Z
+slug: exercitii-teste-videouri
 ---
 
 # Videouri
