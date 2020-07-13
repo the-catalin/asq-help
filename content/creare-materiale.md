@@ -43,7 +43,7 @@ Citește aici mai multe detalii despre [exerciții, teste și videouri](/exercit
 Materialele educaționale create de către profesori pe platforma ASQ pot fi utilizate în două moduri:
 
 * doar de către elevii profesorului care a creat materialele - acest mod este implicit (vezi [aici](/intrebari-frecvente/de-ce-elevii-mei-nu-pot-vedea-materialele-create-de-mine/) cum te asiguri că elevii tăi au acces la materialele create de tine)
-* de către **toți utilizatorii aplicației ASQ**, prin bifarea opțiunii **"disponibil tuturor utilizatorilor"** la crearea fiecărui material
+* de către **toți utilizatorii aplicației ASQ**, prin bifarea opțiunii **„disponibil tuturor utilizatorilor”** la crearea fiecărui material
 
 Dacă bifezi ca un anumit material să fie disponibil tuturor, acesta va putea fi accesat de către toți utilizatorii aplicației (după ce va trece printr-un proces de aprobare), contribuind astfel la conținutul disponibil gratuit pe platforma ASQ.
 
