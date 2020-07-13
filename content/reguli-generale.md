@@ -1,11 +1,7 @@
 ---
-title: "Reguli generale"
+title: Reguli generale
 weight: 1
-# bookFlatSection: false
-# bookToc: true
-# bookHidden: false
-# bookCollapseSection: false
-# bookComments: true
+slug: reguli-generale
 ---
 
 # Reguli generale
