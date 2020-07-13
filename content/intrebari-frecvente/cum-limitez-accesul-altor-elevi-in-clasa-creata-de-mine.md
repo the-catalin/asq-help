@@ -2,6 +2,7 @@
 title: Cum limitez accesul altor elevi în clasa creată de mine
 date: 2020-04-06T21:11:08.000Z
 description: Cum limitez accesul altor elevi în clasa creată de mine
+slug: cum-limitez-accesul-altor-elevi-in-clasa-creata-de-mine
 ---
 
 [< Înapoi la **Întrebări frecvente**](/intrebari-frecvente/)

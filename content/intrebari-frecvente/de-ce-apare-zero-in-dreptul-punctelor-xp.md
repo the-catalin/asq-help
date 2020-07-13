@@ -2,6 +2,7 @@
 title: De ce apare 0 în dreptul punctelor XP? De ce se resetează acest punctaj?
 date: 2020-04-06T21:11:08.000Z
 description: De ce apare 0 în dreptul punctelor XP? De ce se resetează acest punctaj?
+slug: de-ce-apare-zero-in-dreptul-punctelor-xp
 ---
 [< Înapoi la **Întrebări frecvente**](/intrebari-frecvente/)
 

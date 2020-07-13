@@ -1,7 +1,8 @@
 ---
 title: De ce elevii mei nu pot vedea materialele create de mine
-date: "2020-04-06T21:11:08.000Z"
+date: 2020-04-06T21:11:08.000Z
 description: De ce elevii mei nu pot vedea materialele create de mine
+slug: de-ce-elevii-mei-nu-pot-vedea-materialele-create-de-mine
 ---
 
 [< Înapoi la **Întrebări frecvente**](/intrebari-frecvente/)

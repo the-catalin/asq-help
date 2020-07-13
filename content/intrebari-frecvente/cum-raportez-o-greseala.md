@@ -2,6 +2,7 @@
 title: Cum raportez o greșeală întâlnită la un exercițiu sau test
 date: 2020-04-06T21:11:08.000Z
 description: Cum raportez o greșeală întâlnită la un exercițiu sau test
+slug: cum-raportez-o-greseala
 ---
 [< Înapoi la **Întrebări frecvente**](/intrebari-frecvente/)
 

@@ -1,7 +1,8 @@
 ---
 title: De ce colegii mei nu pot vedea materialele adăugate de mine
-date: "2020-04-06T21:11:08.000Z"
+date: 2020-04-06T21:11:08.000Z
 description: De ce colegii mei nu pot vedea materialele adăugate de mine
+slug: de-ce-colegii-mei-nu-pot-vedea-materialele-adaugate-de-mine
 ---
 
 [< Înapoi la **Întrebări frecvente**](/intrebari-frecvente/)

@@ -2,6 +2,7 @@
 title: Nu găsesc aplicația ASQ pe App Store sau Google Play. Cum procedez
 date: 2020-04-06T21:11:08.000Z
 description: Nu găsesc aplicația ASQ pe App Store sau Google Play. Cum procedez
+slug: nu-gasesc-aplicatia-asq-pe-app-store-sau-google-play
 ---
 
 [< Înapoi la **Întrebări frecvente**](/intrebari-frecvente/)
