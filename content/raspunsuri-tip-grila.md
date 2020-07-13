@@ -1,6 +1,7 @@
 ---
-title: "Răspunsuri tip grilă"
+title: Răspunsuri tip grilă
 date: 2020-04-07T01:55:19+03:00
+slug: raspunsuri-tip-grila
 ---
 
 # Răspunsuri tip grilă
