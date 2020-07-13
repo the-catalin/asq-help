@@ -1,6 +1,7 @@
 ---
-title: "Răspunsuri și variante"
+title: Răspunsuri și variante
 date: 2020-04-07T01:55:19+03:00
+slug: raspunsuri-si-variante
 ---
 
 # Răspunsuri corecte multiple și variante corecte ale aceluiași răspuns
