@@ -14,6 +14,8 @@ Unul dintre obiectivele platformei ASQ este de a crea și de a oferi gratuit mat
 
 Materialele pe care le poți vedea acum pe aplicație au fost create de către profesori ca tine și sunt utilizate gratuit, în fiecare zi, de către zeci de mii de copii din întreaga țară. Te invităm și pe tine să faci parte din comunitatea profesorilor care creează materiale educaționale interactive!
 
+Contribuția ta este recunoscută printr-un sistem de [recompense virtuale, puncte merit și medalii](/puncte-merit-si-medalii/).
+
 - - -
 
 # Ce reprezintă „materialele” pe platforma ASQ?
