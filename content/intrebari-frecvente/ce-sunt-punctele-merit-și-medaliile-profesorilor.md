@@ -26,7 +26,7 @@ Notă: punctele merit corespunzătoare unui material sunt adăugate în momentul
 
 {{< img src="/img/author-total-example.png">}}
 
-Nivelul unui autor este determinat strict de valoarea totală a punctelor merit. Pentru a trece la un nivel superior, trebuie acumulat un anumit număr de puncte. Odată cu creșterea în nivel, valoarea necesară de puncte merit pentru a avansa în nivel crește progresiv. De exemplu, pentru a trece de la nivelul 2 la nivelul 3 sunt necesare 500 de puncte, iar pentru a urca de la nivelul 4 la 5, ai nevoie de 900 de puncte, șamd.
+Nivelul unui autor este determinat strict de valoarea totală a punctelor merit. Pentru a trece la un nivel superior, trebuie acumulat un anumit număr de puncte. Odată cu creșterea în nivel, valoarea necesară de puncte merit pentru a avansa în nivel crește progresiv. De exemplu, pentru a trece de la nivelul 2 la nivelul 3 sunt necesare 500 de puncte, iar pentru a urca de la nivelul 4 la 5 ai nevoie de 900 de puncte, șamd.
 
 ---
 
