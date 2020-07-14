@@ -30,7 +30,7 @@ Videourile sunt lecțiile pe care elevii le pot urmări în ritmul lor.
 Documentele prezintă lecția în mod sistematic prin text și imagini.
 
 Exercițiile și testele sunt modalități de exersare și evaluare **automată** a cunoștințelor de la fiecare lecție. Toate exercițiile și testele conțin câte un set de [întrebări](/intrebari/) (enunțuri) și fiecare întrebare trebuie să aibă unul sau mai multe [răspunsuri](/raspunsuri/). Asta presupune că, la crearea materialului, profesorul trebuie să introducă atât întrebările **cât și răspunsurile corecte**. Astfel, elevul care va parcurge materialul și va răspunde la întrebări, va fi verificat automat de către sistem.
-Citește aici mai multe detalii despre [exerciții, teste și videouri](/exercitii-teste-videouri).
+Citește aici mai multe detalii despre [exerciții, teste, videouri și documente](/exercitii-teste-videouri).
 
 În acest mod, profesorul nu trebuie să mai corecteze fiecare fișă în parte, ci poate vedea, direct pe aplicația ASQ, în timp real, cine a răspuns corect și cine nu și unde a greșit fiecare elev. Într-adevăr, este un volum mare de muncă la crearea materialelor, dar pe termen lung, prin faptul că poți refolosi aceleași materiale la clase și generații de elevi diferite, avantajul este net în favoarea materialelor cu **verificare automată**. Iar un alt avantaj al platformei este că poți folosi și materialele create de către alți profesori.
 
