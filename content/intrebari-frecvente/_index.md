@@ -19,7 +19,6 @@ slug: intrebari-frecvente
 - ### [Cum trebuie să arate un material pentru a fi aprobat?](/intrebari-frecvente/cum-trebuie-sa-arate-un-material-pentru-a-fi-aprobat/)
 - ### [Cum integrez jocuri pe aplicatia ASQ?](/intrebari-frecvente/cum-integrez-jocuri-pe-aplicatia-asq/)
 - ### [Cum pot primi certificat de recunoaștere pentru activitatea mea?](/intrebari-frecvente/cum-pot-primi-certificat-de-recunoastere/)
-- ### [Ce sunt punctele merit și medaliile profesorilor?](/intrebari-frecvente/ce-sunt-punctele-merit-si-medaliile-profesorilor/)
 
 ## Elevi
 
