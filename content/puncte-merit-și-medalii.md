@@ -5,7 +5,7 @@ slug: puncte-merit-si-medalii
 # Ce sunt punctele merit și medaliile profesorilor?
 
 La [adăugarea materialelor](/creare-materiale/) pe platforma ASQ, profesorii sunt răsplătiți cu premii virtuale constând în puncte merit, creștere a nivelului și medalii.
-
+ 
 ---
 
 ## Punctele merit
