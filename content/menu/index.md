@@ -15,4 +15,5 @@ headless = true
       - [Răspunsuri și variante]({{< relref "/raspunsuri-si-variante" >}})
       - [Căsuțe de input]({{< relref "/casute-de-input" >}})
       - [Răspunsuri tip grilă]({{< relref "/raspunsuri-tip-grila" >}})
+    - [Editare rapidă]({{< relref "/editare-rapida" >}})
     - [Puncte merit și medalii]({{< relref "/puncte-merit-si-medalii" >}})
