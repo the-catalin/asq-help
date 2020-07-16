@@ -6,7 +6,7 @@ slug: editare-rapida
 
 # Editare rapidă
 
-Pentru a naviga cât mai ușor între paginile de adăugare a întrebărilor și răspunsurilor, ai la dispoziție câteva scurtături:
+Pentru a naviga cât mai ușor între paginile de adăugare a [întrebărilor](/intrebari/) și [răspunsurilor](/raspunsuri/), ai la dispoziție câteva scurtături:
 
 1. În loc să folosești mouse-ul pentru a apăsa pe oricare dintre butoanele:
 
