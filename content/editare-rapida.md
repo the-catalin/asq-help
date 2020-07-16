@@ -11,10 +11,13 @@ Pentru a naviga cât mai ușor între paginile de adăugare a întrebărilor și
 1. În loc să folosești mouse-ul pentru a apăsa pe butoanele:
 
 ![](/img/adauga_intrebare.jpg)
+
 ![](/img/adauga_raspuns.jpg)
+
 ![](/img/adauga_varianta.jpg)
 
 Poți folosi combinația de taste **Ctrl+Enter**
+
 
 2. Pentru a te întoarce cu un pas înapoi, în loc să apeși de fiecare dată pe butonul
 
