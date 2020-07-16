@@ -18,6 +18,7 @@ Pentru a naviga cât mai ușor între paginile de adăugare a întrebărilor și
 
 Poți folosi combinația de taste **Ctrl+Enter**
 
+---
 
 2. Pentru a te întoarce cu un pas înapoi, în loc să apeși de fiecare dată pe butonul
 
