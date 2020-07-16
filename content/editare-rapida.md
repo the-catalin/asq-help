@@ -8,7 +8,7 @@ slug: editare-rapida
 
 Pentru a naviga cât mai ușor între paginile de adăugare a întrebărilor și răspunsurilor, ai la dispoziție câteva scurtături:
 
-1. În loc să folosești mouse-ul pentru a apăsa pe butoanele:
+1. În loc să folosești mouse-ul pentru a apăsa pe oricare dintre butoanele:
 
 ![](/img/adauga_intrebare.jpg)
 
