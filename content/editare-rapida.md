@@ -16,7 +16,7 @@ Pentru a naviga cât mai ușor între paginile de adăugare a [întrebărilor](/
 
 ![](/img/adauga_varianta.jpg)
 
-Poți folosi combinația de taste **Ctrl+Enter**
+poți folosi combinația de taste **Ctrl+Enter**
 
 ---
 
