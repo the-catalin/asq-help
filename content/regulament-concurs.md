@@ -33,7 +33,7 @@ Concursul se desfășoară în perioada 23.07 - 12.08.2020.
 
 Conținutul educațional creat poate aparține oricărui ciclu de studiu: primar, gimnazial, liceal (de la clasa pregătitoare până la clasa a XII-a).
 
-Toate materialele trebuie să respecte regulile generale de creare de conținut disponibile [**aici**](/reguli-generale/) și să fie bifate ca [disponibile tuturor utilizatorilor](/creare-materiale/#cum-sunt-folosite-materialele-create-de-mine).
+Toate materialele trebuie să respecte regulile generale de creare de conținut disponibile [**aici**](/reguli-generale/) și să fie bifate ca [disponibile tuturor utilizatorilor](/optiuni-la-crearea-unui-material/).
 
 Nicio propunere de material digital care va fi transmisă pe o altă cale decât prin intermediul acestei platforme nu va fi luată în considerare în cadrul concursului.
 
