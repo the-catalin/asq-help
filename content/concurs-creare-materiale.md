@@ -18,4 +18,4 @@ Citește [**aici**](/puncte-merit-si-medalii/) mai multe detalii despre punctele
 
 **IMPORTANT**: punctele merit se acumulează doar în momentul aprobării materialelor pe aplicație. Te rugăm să ne scrii la {{< img src="/img/contact.jpg">}} dacă materialele tale respectă [regulile de creare materiale](/reguli-generale/) dar nu au fost încă aprobate.
 
-Citește aici [REGULAMENTUL DETALIAT AL CONCURSULUI](/regulament-concurs/).
+Citește aici [**REGULAMENTUL COMPLET AL CONCURSULUI**](/regulament-concurs/).
