@@ -6,7 +6,7 @@ slug: creare-materiale
 ---
 # Creare conținut educațional - obiectiv
 
-Unul dintre obiectivele platformei ASQ este de a crea și de a oferi gratuit materiale educaționale la toate disciplinele și toți anii de studiu, pentru a oferi tuturor posibilitatea de a avea acces, la un click distanță, la conținut educativ de calitate la orice capitol sau lecție. Toate acestea se pot realiza doar cu ajutorul profesorilor specialiști din fiecare domeniu de studiu.
+Unul dintre obiectivele platformei ASQ este de a crea și de a oferi materiale educaționale la toate disciplinele și toți anii de studiu, pentru a oferi tuturor posibilitatea de a avea acces gratuit, la un click distanță, la conținut educativ de calitate la orice capitol sau lecție. Toate acestea se pot realiza doar cu ajutorul profesorilor specialiști din fiecare domeniu de studiu.
 
 - - -
 
