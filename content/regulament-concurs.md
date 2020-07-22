@@ -66,4 +66,22 @@ Persoana care înscrie materiale educaționale digitale, declară și garanteaz�
 
 Platforma ASQ își rezervă dreptul de a face corecturi gramaticale sau modificări și de a încadra materialele la categoriile corespunzătoare.
 
-Crearea de materiale educaționale pe platforma ASQ presupune o cesiune neexclusivă a drepturilor de autor către ASQ. Platforma ASQ poate modifica, reproduce, distribui sau refolosi în orice mod conținutul educațional creat.
+Crearea de materiale educaționale pe platforma ASQ presupune o cesiune neexclusivă a drepturilor de autor către ASQ. Platforma ASQ poate modifica, reproduce, distribui sau refolosi în orice mod întreg conținutul educațional.
+
+### 8. Evaluarea materialelor digitale înscrise în concurs
+
+Materialele înscrise în concurs vor fi validate din punct de vedere științific de profesori specialiști și după caz, aprobate pe platforma ASQ pentru a deveni disponibile tuturor utilizatorilor.
+
+Ierarhia profesorilor creatori de conținut este disponibilă, în timp real, pe toată durata de desfășurare a concursului, în cadrul [aplicației ASQ](https://asq.ro/app/), în secțiunea Info - Concurs.
+
+Rezultatele concursului vor fi făcute publice pâna la data de 14.08.2020 pe [pagina de Facebook ASQ](https://www.facebook.com/asq.romania).
+
+### 9. Modificarea regulamentului
+
+Organizatorul își rezervă dreptul de a modifica sau schimba prezentul regulament, notificările în acest sens vor fi făcute pe [pagina de Facebook ASQ](https://www.facebook.com/asq.romania).
+
+Pentru informații suplimentare ne puteți contacta la {{< img src="/img/contact.jpg">}}.
+
+### 10. Reclamații și litigii
+
+Orice reclamație care are legătură cu desfășurarea concursului va fi adresată în scris organizatorului, prin email la adresa {{< img src="/img/contact.jpg">}}, în termen de cel mult două zile de la data la care s-a produs evenimentul reclamat.
