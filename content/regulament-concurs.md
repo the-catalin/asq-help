@@ -70,7 +70,7 @@ Crearea de materiale educaționale pe platforma ASQ presupune o cesiune neexclus
 
 ### 8. Evaluarea materialelor digitale înscrise în concurs
 
-Materialele înscrise în concurs vor fi validate din punct de vedere științific de profesori specialiști și după caz, aprobate pe platforma ASQ pentru a deveni disponibile tuturor utilizatorilor.
+Materialele înscrise în concurs vor fi validate din punct de vedere științific de profesori specialiști și, după caz, aprobate pe platforma ASQ pentru a deveni disponibile tuturor utilizatorilor.
 
 Ierarhia profesorilor creatori de conținut este disponibilă, în timp real, pe toată durata de desfășurare a concursului, în cadrul [aplicației ASQ](https://asq.ro/app/), în secțiunea Info - Concurs.
 
