@@ -4,7 +4,7 @@ slug: concurs-creare-materiale
 ---
 ![](/img/concurs.jpg)
 
-În perioada 23.07 - 12.08.2020 se desfășoară concursul pentru profesori de [creare materiale educaționale pe platforma ASQ](/creare-materiale/).
+În perioada 23.07 - 12.08.2020 se desfășoară concursul pentru profesori de creare materiale educaționale pe platforma ASQ. Citește [**aici**](/creare-materiale) mai multe detalii despre ce înseamnă crearea acestor materiale.
 
 La finalul concursului, trei profesori care au acumulat cel mai mare număr de puncte merit vor primi, în ordine, câte unul dintre cele trei premii oferite:
 
