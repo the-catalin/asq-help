@@ -2,9 +2,9 @@
 title: Regulament concurs
 slug: regulament-concurs
 ---
-#Regulament concurs
+# Regulament concurs
 
-###1. Cadrul general de desfășurare a concursului
+### 1. Cadrul general de desfășurare a concursului
 
 ASQ este o platformă educațională gratuită ce îmbină elemente de învățare autonomă, în care copiii parcurg lecțiile în ritmul lor, cu module de învățare asistată, prin care profesorii atribuie sarcini de lucru copiilor și le urmăresc evoluția.
 Platforma ASQ ajută elevii să învețe într-un mod dinamic și interactiv, să urmărească lecții video în ritmul lor, să rezolve exerciții și teste cu verificare automată și feedback instant și le oferă o experiență de învățare gamificată ce îi motivează să obțină puncte și medalii virtuale.
