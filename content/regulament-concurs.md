@@ -11,7 +11,7 @@ Platforma ASQ ajută elevii să învețe într-un mod dinamic și interactiv, s�
  
 Profesorii au, prin platforma ASQ, o unealtă eficientă de lucru prin care pot urmări activitatea elevilor în timp real, pot da teme și lucra diferențiat, urmărind cu ușurință progresul individual al fiecărui elev, toate aceste aspecte fiind aproape imposibil de realizat în modelul clasic de predare-învățare.
 
-Un obiectiv important al platformei online ASQ este acela de a atrage materiale educaționale, în format digital, în vederea utilizării lor la clasă într-un mod interactiv și aplicat.
+Un obiectiv important al platformei online ASQ este acela de a oferi materiale educaționale, în format digital, în vederea utilizării lor la clasă într-un mod interactiv și aplicat.
 
 În cadrul acestui concurs, urmărim popularizarea platformei ASQ cu astfel de materiale educaționale gratuite, disponibile tuturor utilizatorilor. Materialele sunt de tipul:
 * Video
@@ -19,14 +19,11 @@ Un obiectiv important al platformei online ASQ este acela de a atrage materiale 
 * Exercițiu
 * Test
 
-Toate materialele trebuie să respecte regulile generale de creare de conținut disponibile [**aici**](/reguli-generale/) și să fie bifate ca disponibile tuturor utilizatorilor.
-
-Persoana care înscrie materiale educaționale digitale, declară și garantează că materialele încărcate pe platforma ASQ sunt originale, nu sunt copiate total sau parțial din alte surse și nu încalcă drepturile nici unei terțe părți, iar persoana care le încarcă este autorul lor și deținătorul exclusiv al tuturor drepturilor de proprietate intelectuală asupra acestora și că este de acord și înțelege că, prin încărcarea materialelor pe platforma ASQ, acestea vor fi puse la dispoziția tuturor utilizatorilor online pentru a fi folosite în mod gratuit în activități de învățare în oricare modalități (inclusiv prin comunicare către public, distribuire, reproducere, modificare etc.).
-Platforma ASQ își rezervă dreptul de a face corecturi gramaticale sau modificări și de a încadra materialele la categoriile corespunzătoare.
+Citește [**aici**](/creare-materiale/) mai multe aspecte despre crearea materialelor pe platforma ASQ.
 
 ### 2. Perioada de desfășurare a concursului
 
-Concursul se desfășoară în perioada 23.07 - 12.08.2020
+Concursul se desfășoară în perioada 23.07 - 12.08.2020.
 
 ### 3. Condiții generale de înscriere în concurs
 
@@ -35,4 +32,21 @@ Concursul se desfășoară în perioada 23.07 - 12.08.2020
 ### 4. Criterii de eligibilitate
 
 Conținutul educațional creat poate aparține oricărui ciclu de studiu: primar, gimnazial, liceal (de la clasa pregătitoare până la clasa a XII-a).
+
 Materialele digitale înscrise în concurs trebuie să fie creații proprii și să respecte programa școlară în vigoare.
+
+Toate materialele trebuie să respecte regulile generale de creare de conținut disponibile [**aici**](/reguli-generale/) și să fie bifate ca [disponibile tuturor utilizatorilor](/creare-materiale/#cum-sunt-folosite-materialele-create-de-mine).
+
+### 5. Premii
+
+La finalul concursului, trei profesori care au acumulat cel mai mare număr de *puncte merit* vor primi, în ordine, câte unul dintre cele trei premii oferite:
+
+Premiul I - Tableta Huawei MediaPad T3 10\
+Premiul II - Tabletă grafică Wacom Intuos S Bluetooth\
+Premiul III - Cameră web Logitech C270
+
+Punctele merit se acumulează adăugând pe aplicația ASQ [exerciții, teste, videouri sau documente](/exercitii-teste-videouri/).
+
+Citește [**aici**](/puncte-merit-si-medalii/) mai multe detalii despre punctele merit.
+
+Rezultatele concursului vor fi făcute publice pâna la data de 14.08.2020 pe [pagina de Facebook ASQ](https://www.facebook.com/asq.romania).
