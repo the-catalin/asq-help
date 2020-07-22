@@ -23,3 +23,16 @@ Toate materialele trebuie să respecte regulile generale de creare de conținut 
 
 Persoana care înscrie materiale educaționale digitale, declară și garantează că materialele încărcate pe platforma ASQ sunt originale, nu sunt copiate total sau parțial din alte surse și nu încalcă drepturile nici unei terțe părți, iar persoana care le încarcă este autorul lor și deținătorul exclusiv al tuturor drepturilor de proprietate intelectuală asupra acestora și că este de acord și înțelege că, prin încărcarea materialelor pe platforma ASQ, acestea vor fi puse la dispoziția tuturor utilizatorilor online pentru a fi folosite în mod gratuit în activități de învățare în oricare modalități (inclusiv prin comunicare către public, distribuire, reproducere, modificare etc.).
 Platforma ASQ își rezervă dreptul de a face corecturi gramaticale sau modificări și de a încadra materialele la categoriile corespunzătoare.
+
+### 2. Perioada de desfășurare a concursului
+
+Concursul se desfășoară în perioada 23.07 - 12.08.2020
+
+### 3. Condiții generale de înscriere în concurs
+
+În concurs se vor înscrie automat toți profesorii care creează materiale educaționale pe platforma ASQ în perioada de desfășurare a concursului.
+
+### 4. Criterii de eligibilitate
+
+Conținutul educațional creat poate aparține oricărui ciclu de studiu: primar, gimnazial, liceal (de la clasa pregătitoare până la clasa a XII-a).
+Materialele digitale înscrise în concurs trebuie să fie creații proprii și să respecte programa școlară în vigoare.
