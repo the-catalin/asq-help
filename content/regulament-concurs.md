@@ -88,5 +88,5 @@ Orice reclamație care are legătură cu desfășurarea concursului va fi adresa
 
 ### 11. Prelucrarea datelor cu caracter personal
 
-În cadrul concursului, platforma ASQ va prelucra și afișa dacă este cazul următoarele categorii de date cu caracter personal: nume, prenume, adresă de email, funcție, localitate, instituția de învățământ.
+În cadrul concursului, platforma ASQ va prelucra și afișa, dacă este cazul, următoarele categorii de date cu caracter personal: nume, prenume, adresă de email, funcție, localitate, instituția de învățământ.
 Refuzul de a furniza datele personale sau de a adera la condițiile acestui regulament conduce la neparticiparea în concurs.
