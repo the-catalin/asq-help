@@ -85,3 +85,8 @@ Pentru informații suplimentare ne puteți contacta la {{< img src="/img/contact
 ### 10. Reclamații și litigii
 
 Orice reclamație care are legătură cu desfășurarea concursului va fi adresată în scris organizatorului, prin email la adresa {{< img src="/img/contact.jpg">}}, în termen de cel mult două zile de la data la care s-a produs evenimentul reclamat.
+
+### 11. Prelucrarea datelor cu caracter personal
+
+În cadrul concursului, platforma ASQ va prelucra și afișa dacă este cazul următoarele categorii de date cu caracter personal: nume, prenume, adresă de email, funcție, localitate, instituția de învățământ.
+Refuzul de a furniza datele personale sau de a adera la condițiile acestui regulament conduce la neparticiparea în concurs.
