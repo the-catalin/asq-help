@@ -47,7 +47,7 @@ Procedura de înscriere a unui material educațional digital în concurs pe Plat
 
 ### 6. Premii
 
-La finalul concursului, trei profesori care au acumulat cel mai mare număr de *puncte merit* vor primi, în ordine, câte unul dintre cele trei premii oferite:
+La finalul concursului, trei profesori care au acumulat cel mai mare număr de *puncte merit* vor primi, în ordine, unul dintre cele trei premii oferite:
 
 Premiul I - Tableta Huawei MediaPad T3 10\
 Premiul II - Tabletă grafică Wacom Intuos S Bluetooth\
