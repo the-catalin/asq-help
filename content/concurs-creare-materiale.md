@@ -17,3 +17,5 @@ Punctele merit se acumulează adăugând pe aplicația ASQ [exerciții, teste, v
 Citește aici mai multe detalii despre [**punctele merit**](/puncte-merit-si-medalii/).
 
 **IMPORTANT**: punctele merit se acumulează doar în momentul aprobării materialelor pe aplicație. Te rugăm să ne scrii la {{< img src="/img/contact.jpg">}} dacă materialele tale respectă [regulile de creare materiale](/reguli-generale/) dar nu au fost încă aprobate.
+
+Citește aici [REGULAMENTUL DETALIAT AL CONCURSULUI](/regulament-concurs/).
