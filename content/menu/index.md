@@ -17,3 +17,4 @@ headless = true
       - [Răspunsuri tip grilă]({{< relref "/raspunsuri-tip-grila" >}})
     - [Editare rapidă]({{< relref "/editare-rapida" >}})
     - [Puncte merit și medalii]({{< relref "/puncte-merit-si-medalii" >}})
+    - [Concurs creare materiale]({{< relref "/concurs-creare-materiale" >}})
