@@ -25,7 +25,7 @@ Citește [**aici**](/creare-materiale/) mai multe aspecte despre crearea materia
 
 Concursul se desfășoară în perioada 23.07 - 12.08.2020.
 
-### 3. Condiții generale de înscriere în concurs
+### 3. Înscrierea în concurs
 
 În concurs se vor înscrie automat toți profesorii care creează materiale educaționale pe platforma ASQ în perioada de desfășurare a concursului.
 
@@ -33,11 +33,19 @@ Concursul se desfășoară în perioada 23.07 - 12.08.2020.
 
 Conținutul educațional creat poate aparține oricărui ciclu de studiu: primar, gimnazial, liceal (de la clasa pregătitoare până la clasa a XII-a).
 
-Materialele digitale înscrise în concurs trebuie să fie creații proprii și să respecte programa școlară în vigoare.
-
 Toate materialele trebuie să respecte regulile generale de creare de conținut disponibile [**aici**](/reguli-generale/) și să fie bifate ca [disponibile tuturor utilizatorilor](/creare-materiale/#cum-sunt-folosite-materialele-create-de-mine).
 
-### 5. Premii
+Nicio propunere de material digital care va fi transmisă pe o altă cale decât prin intermediul acestei platforme nu va fi luată în considerare în cadrul concursului.
+
+Materialele digitale înscrise în concurs trebuie să fie creații proprii și să respecte programa școlară în vigoare.
+
+### 5. Utilizarea contului ASQ pentru crearea materialelor
+
+Procedura de înscriere a unui material educațional digital în concurs pe Platforma ASQ presupune crearea unui singur cont de utilizator de tip profesor (utilizând o adresă de e-mail sau prin logare cu Facebook) la adresa [asq.ro/app](https://asq.ro/app/), logarea pe platformă și adăugarea de materiale, respectând regulile de [aici](/creare-materiale/).
+
+*Atenție!* Un profesor trebuie să folosească un singur cont ASQ la crearea materialelor.
+
+### 6. Premii
 
 La finalul concursului, trei profesori care au acumulat cel mai mare număr de *puncte merit* vor primi, în ordine, câte unul dintre cele trei premii oferite:
 
@@ -50,3 +58,12 @@ Punctele merit se acumulează adăugând pe aplicația ASQ [exerciții, teste, v
 Citește [**aici**](/puncte-merit-si-medalii/) mai multe detalii despre punctele merit.
 
 Rezultatele concursului vor fi făcute publice pâna la data de 14.08.2020 pe [pagina de Facebook ASQ](https://www.facebook.com/asq.romania).
+
+
+### 7. Drepturi de autor
+
+Persoana care înscrie materiale educaționale digitale, declară și garantează că materialele încărcate pe platforma ASQ sunt originale, nu sunt copiate total sau parțial din alte surse și nu încalcă drepturile nici unei terțe părți, iar persoana care le încarcă este autorul lor și deținătorul exclusiv al tuturor drepturilor de proprietate intelectuală asupra acestora și că este de acord și înțelege că, prin încărcarea materialelor pe platforma ASQ, acestea vor fi puse la dispoziția tuturor utilizatorilor online pentru a fi folosite în activități de învățare în oricare modalități (inclusiv prin comunicare către public, distribuire, reproducere, modificare etc).
+
+Platforma ASQ își rezervă dreptul de a face corecturi gramaticale sau modificări și de a încadra materialele la categoriile corespunzătoare.
+
+Crearea de materiale educaționale pe platforma ASQ presupune o cesiune neexclusivă a drepturilor de autor către ASQ. Platforma ASQ poate modifica, reproduce, distribui sau refolosi în orice mod conținutul educațional creat.
