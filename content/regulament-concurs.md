@@ -27,7 +27,7 @@ Concursul se desfășoară în perioada 23.07 - 12.08.2020.
 
 ### 3. Înscrierea în concurs
 
-În concurs se vor înscrie automat toți profesorii care creează materiale educaționale pe platforma ASQ în perioada de desfășurare a concursului.
+În concurs sunt înscriși automat toți profesorii care creează materiale educaționale pe platforma ASQ în perioada de desfășurare a concursului.
 
 ### 4. Criterii de eligibilitate
 
@@ -57,7 +57,7 @@ Punctele merit se acumulează adăugând pe aplicația ASQ [exerciții, teste, v
 
 Citește [**aici**](/puncte-merit-si-medalii/) mai multe detalii despre punctele merit.
 
-Rezultatele concursului vor fi făcute publice pâna la data de 14.08.2020 pe [pagina de Facebook ASQ](https://www.facebook.com/asq.romania).
+Rezultatele concursului vor fi făcute publice până la data de 14.08.2020 pe [pagina de Facebook ASQ](https://www.facebook.com/asq.romania).
 
 
 ### 7. Drepturi de autor
@@ -74,7 +74,7 @@ Materialele înscrise în concurs vor fi validate din punct de vedere științif
 
 Ierarhia profesorilor creatori de conținut este disponibilă, în timp real, pe toată durata de desfășurare a concursului, în cadrul [aplicației ASQ](https://asq.ro/app/), în secțiunea Info - Concurs.
 
-Rezultatele concursului vor fi făcute publice pâna la data de 14.08.2020 pe [pagina de Facebook ASQ](https://www.facebook.com/asq.romania).
+Rezultatele concursului vor fi făcute publice până la data de 14.08.2020 pe [pagina de Facebook ASQ](https://www.facebook.com/asq.romania).
 
 ### 9. Modificarea regulamentului
 
