@@ -13,7 +13,7 @@ Profesorii au, prin platforma ASQ, o unealtă eficientă de lucru prin care pot 
 
 Un obiectiv important al platformei online ASQ este acela de a oferi materiale educaționale, în format digital, în vederea utilizării lor la clasă într-un mod interactiv și aplicat.
 
-În cadrul acestui concurs, urmărim popularizarea platformei ASQ cu astfel de materiale educaționale gratuite, disponibile tuturor utilizatorilor. Materialele sunt de tipul:
+În cadrul acestui concurs, urmărim îmbogățirea platformei ASQ cu astfel de materiale educaționale gratuite, disponibile tuturor utilizatorilor. Materialele sunt de tipul:
 * Video
 * Document
 * Exercițiu
