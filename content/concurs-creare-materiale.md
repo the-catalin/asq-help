@@ -4,13 +4,15 @@ slug: concurs-creare-materiale
 ---
 ![](/img/concurs.jpg)
 
-În perioada 23.07 - 12.08.2020 se desfășoară concursul pentru profesori de creare materiale educaționale pe platforma ASQ (citește [**aici**](/creare-materiale/) mai multe detalii despre crearea materialelor).
+În perioada 23.07 - 12.08.2020 s-a desfășurat concursul pentru profesori de creare materiale educaționale pe platforma ASQ (citește [**aici**](/creare-materiale/) mai multe detalii despre crearea materialelor).
 
-La finalul concursului, trei profesori care vor acumula cel mai mare număr de *puncte merit* vor primi, în ordine, unul dintre cele trei premii oferite:
+Cei trei profesori care au acumulat cel mai mare număr de *puncte merit* primesc premiile după cum urmează:
 
-Premiul I - Tableta Huawei MediaPad T3 10\
-Premiul II - Tabletă grafică Wacom Intuos S Bluetooth\
-Premiul III - Cameră web Logitech C270
+Premiul I - Tableta Huawei MediaPad T3 10 - **Gabriela Guzgan**\
+Premiul II - Tabletă grafică Wacom Intuos S Bluetooth - **Cristina Ichim**\
+Premiul III - Cameră web Logitech C270 - **Emilia Tulvan**
+
+---
 
 *Punctele merit* se acumulează adăugând pe aplicația ASQ [exerciții, teste, videouri sau documente](/exercitii-teste-videouri/).
 
