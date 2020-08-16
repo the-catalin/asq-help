@@ -4,7 +4,11 @@ headless = true
 
 - [Întrebări frecvente]({{< relref "/intrebari-frecvente" >}})
 - Profesori
-  - [Crearerea materialelor pe platformă]({{< relref "/creare-materiale" >}})
+  - [Urmărirea activității elevilor în timp real]({{< relref "/urmarirea-activitatii-elevilor-in-timp-real" >}})
+  - [Crearea temelor]({{< relref "/creare-teme-elevi" >}})
+  - [Evoluție individuală elevi]({{< relref "/evolutie-individuala-elevi" >}})
+  - [Creare conturi elevi]({{< relref "/creare-conturi-elevi" >}})
+  - [Crearea materialelor pe platformă]({{< relref "/creare-materiale" >}})
     - [Reguli generale]({{< relref "/reguli-generale" >}})
     - [Capitole și lecții]({{< relref "/capitole-si-lectii" >}})
     - [Structura unei lecții]({{< relref "/structura-unei-lectii" >}})
