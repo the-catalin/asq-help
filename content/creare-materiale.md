@@ -65,6 +65,6 @@ Pentru a asigura un standard de calitate și un aspect uniform al întregului co
 
 ---
 
-# Cum adaug pe aplicație materialele mele?
+# Cum adaug în aplicație materialele mele?
 
 {{<youtube zneYabHeGSE>}}
