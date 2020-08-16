@@ -62,3 +62,9 @@ Pentru a asigura un standard de calitate și un aspect uniform al întregului co
 * [Opțiuni la crearea unui material]({{< relref "/optiuni-la-crearea-unui-material" >}})
 * [Întrebări]({{< relref "/intrebari" >}})
 * [Răspunsuri]({{< relref "/raspunsuri" >}})
+
+---
+
+# Cum adaug pe aplicație materialele mele?
+
+{{<youtube zneYabHeGSE>}}
