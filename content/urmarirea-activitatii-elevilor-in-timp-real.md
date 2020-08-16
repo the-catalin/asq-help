@@ -1,5 +1,5 @@
 ---
-title: Urmărirea activității elevilor în timp real
+title: Urmărirea activității în timp real
 slug: urmarirea-activitatii-elevilor-in-timp-real
 ---
 # Urmărirea activității elevilor în timp real
