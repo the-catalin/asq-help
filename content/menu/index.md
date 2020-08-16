@@ -4,7 +4,7 @@ headless = true
 
 - [Întrebări frecvente]({{< relref "/intrebari-frecvente" >}})
 - Profesori
-  - [Urmărirea activității elevilor în timp real]({{< relref "/urmarirea-activitatii-elevilor-in-timp-real" >}})
+  - [Urmărirea activității în timp real]({{< relref "/urmarirea-activitatii-elevilor-in-timp-real" >}})
   - [Crearea temelor]({{< relref "/creare-teme-elevi" >}})
   - [Evoluție individuală elevi]({{< relref "/evolutie-individuala-elevi" >}})
   - [Creare conturi elevi]({{< relref "/creare-conturi-elevi" >}})
