@@ -14,6 +14,8 @@ trebuie să navighezi la secțiunea *Clase* -> selectează o clasă -> *Conturi*
 
 **ATENȚIE** Pentru a avea acces la aceste opțiuni trebuie să soliciți în prealabil drept de administrare a claselor folosind formularul de contact din cadrul aplicației (*Info* -> *Contact*).
 
+
+
 ![](/img/clase1.jpg)
 
 ![](/img/clase2.jpg)
