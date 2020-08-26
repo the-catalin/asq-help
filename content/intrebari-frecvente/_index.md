@@ -9,6 +9,7 @@ slug: intrebari-frecvente
 ## Profesori
 
 - ### [Cum pot scoate contul unui elev din clasa mea?](/intrebari-frecvente/cum-pot-scoate-contul-unui-elev-din-clasa-mea/)
+- ### [Cum pot să promovez o clasă sau să modific anul și litera clasei?](/intrebari-frecvente/cum-promovez-o-clasa-sau-modific-litera-si-anul-clasei/)
 - ### [De ce elevii mei nu pot vedea materialele create de mine?](/intrebari-frecvente/de-ce-elevii-mei-nu-pot-vedea-materialele-create-de-mine/)
 - ### [De ce colegii mei nu pot vedea materialele adăugate de mine?](/intrebari-frecvente/de-ce-colegii-mei-nu-pot-vedea-materialele-adaugate-de-mine/)
 - ### [Cum adaug alți profesori în clasele create de mine?](/intrebari-frecvente/cum-adaug-alti-profesori-la-clasele-create-de-mine/)
