@@ -2,6 +2,8 @@
 title: Cum pot să promovez o clasă sau să modific anul și litera clasei?
 slug: cum-promovez-o-clasa-sau-modific-litera-si-anul-clasei
 ---
+# Cum pot să promovez o clasă sau să modific anul și litera clasei?
+
 Pentru a:
 - promova clasele la începutul unui nou an școlar
 - modifica anul sau litera unei clase
