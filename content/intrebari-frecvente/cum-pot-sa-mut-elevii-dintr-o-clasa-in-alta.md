@@ -17,14 +17,14 @@ Ca profesor, poți face această modificare în locul lui, dacă tu ai fost cel 
 
 Poți urma acești pași:
 
-1. Adaugă noua clasă din contul tău de profesor dacă nu ai făcut-o deja: **Profil** > **Profil privat** > **modifică** > **selectează clasele** > **Adaugă o clasă** > nu uita să apeși butonul **SALVEAZĂ**.
+1. Adaugă noua clasă din contul tău de profesor dacă nu ai făcut-o deja: *Profil* > *Profil privat* > *modifică* > *selectează clasele* > *Adaugă o clasă* > nu uita să apeși butonul *SALVEAZĂ*.
 
-2. Deblochează clasa nouă: **Clase** > alege noua clasă > **Conturi** > **Deblochează**
+2. Deblochează clasa nouă: *Clase* > alege noua clasă > *Conturi* > *Deblochează*
 
-3. Vezi contul și parola elevului: **Clase** > alege vechea clasa > **Conturi** > click pe ochiul din dreptul elevului. (Notează-ți toate conturile și parolele elevilor pe care vrei să-i muți pentru a te loga pe rând în contul fiecărui elev)
+3. Vezi contul și parola elevului: *Clase* > alege vechea clasa > *Conturi* > click pe ochiul din dreptul elevului. (Notează-ți toate conturile și parolele elevilor pe care vrei să-i muți pentru a te loga pe rând în contul fiecărui elev)
 
-4. Ieși din contul tău: **Profil** > **ieși din cont**.
+4. Ieși din contul tău: *Profil* > *Ieși din cont*.
 
-5. Intră în contul elevului: **Login cu email** > introdu contul și parola elevului > **Profil** > **modifică** > **selectează clasa** > schimbă clasa > **SALVEAZĂ**.
+5. Intră în contul elevului: *Login cu email* > introdu contul și parola elevului > *Profil* > *modifică* > *selectează clasa* > schimbă clasa > *SALVEAZĂ*.
 
 6. Poți ieși acum din contul elevului și reintra în contul tău de profesor. Elevul va apărea acum în clasa modificată de tine.
