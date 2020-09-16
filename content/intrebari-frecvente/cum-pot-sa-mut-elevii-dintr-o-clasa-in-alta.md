@@ -9,7 +9,7 @@ slug: cum-pot-sa-mut-elevii-dintr-o-clasa-in-alta
 
 # Cum pot să mut elevii dintr-o clasă în alta?
 
-Dacă vrei să muți **toți** elevii dintr-o clasă, adică să schimbi anul sau litera unei clase, vezi cum poți face această modificare [**aici**](/cum-promovez-o-clasa-sau-modific-litera-si-anul-clasei/).
+Dacă vrei să muți **toți** elevii dintr-o clasă, adică să schimbi anul sau litera unei clase, vezi cum poți face această modificare [**aici**](/intrebari-frecvente/cum-promovez-o-clasa-sau-modific-litera-si-anul-clasei/).
 
 Dacă vrei să muți doar o parte dintre elevii unei clase, singura opțiune este de a face aceste modificări din contul fiecărui elev în parte. Mai exact, din zona de profil a elevului, acesta își schimbă singur clasa.
 
