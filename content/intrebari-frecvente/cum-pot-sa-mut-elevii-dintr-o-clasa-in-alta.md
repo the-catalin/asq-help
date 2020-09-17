@@ -21,7 +21,7 @@ Poți urma acești pași:
 
 2. Deblochează clasa nouă: *Clase* > alege noua clasă > *Conturi* > *Deblochează*
 
-3. Vezi contul și parola elevului: *Clase* > alege vechea clasa > *Conturi* > click pe ochiul din dreptul elevului. (Notează-ți toate conturile și parolele elevilor pe care vrei să-i muți pentru a te loga pe rând în contul fiecărui elev)
+3. Vezi contul și parola elevului: *Clase* > alege vechea clasa > *Conturi* > click pe ochiul din dreptul elevului. (Notează-ți toate conturile și parolele elevilor pe care vrei să-i muți pentru a te loga pe rând în contul fiecărui elev. Poți de asemenea să apeși butonul „Generează PDF” pentru a avea acces rapid la toate conturile și parolele.)
 
 4. Ieși din contul tău: *Profil* > *Ieși din cont*.
 
