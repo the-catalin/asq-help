@@ -6,6 +6,8 @@ slug: cum-pot-sa-deblochez-o-clasa
 
 # Cum pot să deblochez o clasă
 
+Singurul motiv pentru care este utilă deblocarea unei clase este pentru a permite altor elevi ce și-au creat singuri conturi pe platforma ASQ să intre în clasă. Dacă vei crea tu conturi tuturor elevilor tăi, acest lucru nu mai este necesar (vezi [aici](https://youtu.be/gRai4RNuZKI) cum poți crea conturi tuturor elevilor tăi).
+
 În mod implicit, aplicația nu dă dreptul conturilor de elevi de a-și selecta clasa din care fac parte. Aceștia își pot selecta clasa doar dacă tu ca profesor deblochezi în prealabil acea clasă.
 
 Pentru a debloca o clasă din contul tău de profesor trebuie să urmezi pașii:
