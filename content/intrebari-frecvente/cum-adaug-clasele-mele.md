@@ -8,7 +8,10 @@ slug: cum-adaug-clasele-mele
 # Cum adaug clasele mele
 
 Pentru a adăuga clase noi în contul tău de profesor trebuie să accesezi pe rând:
+
 *Profil* > *Profil privat* > *modifică* > *selectează clasele*
+
+&nbsp;
 
 ![](/img/Screenshot_62.jpg)
 
