@@ -22,5 +22,4 @@ trebuie să navighezi la secțiunea *Clase* -> selectează o clasă -> *Conturi*
 
 **ATENȚIE!** Pentru a avea acces la aceste opțiuni trebuie să soliciți în prealabil drept de administrare a claselor folosind formularul de contact din cadrul aplicației (*Info* -> *Contact*).
 
-
-**IMPORTANT!** Dacă ai mai multe clase pe care urmează să le promovezi, fă schimbarea claselor în ordine descrescătoare, începând cu clasele mai mari, pentru a evita suprapuneri nedorite.
+<span style="color:red">**IMPORTANT!**</span> Dacă ai mai multe clase pe care urmează să le promovezi, fă schimbarea claselor în ordine descrescătoare, începând cu clasele mai mari, pentru a evita suprapuneri nedorite.
