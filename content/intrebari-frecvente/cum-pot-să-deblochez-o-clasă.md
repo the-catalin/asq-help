@@ -13,7 +13,7 @@ Singurul motiv pentru care este utilă deblocarea unei clase este pentru a permi
 Pentru a debloca o clasă din contul tău de profesor trebuie să urmezi pașii:
 
 1. Asigură-te întâi că ai selectat clasa din contul tău de profesor:
-*Profil* > *Profil privat* > *modifică* > *selectează clasele* (vezi aici instrucțiuni detaliate despre adăugarea claselor).
+*Profil* > *Profil privat* > *modifică* > *selectează clasele* (vezi [**aici**](/intrebari-frecvente/cum-adaug-clasele-mele/) instrucțiuni detaliate despre adăugarea claselor).
 
 2. Navighează la secțiunea *Clase* -> selectează o clasă -> *Conturi* -> *Deblochează*.
 
