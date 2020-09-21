@@ -2,6 +2,8 @@
 title: Cum pot să deblochez o clasă?
 slug: cum-pot-sa-deblochez-o-clasa
 ---
+[< Înapoi la **Întrebări frecvente**](/intrebari-frecvente/)
+
 # Cum pot să deblochez o clasă
 
 În mod implicit, aplicația nu dă dreptul conturilor de elevi de a-și selecta clasa din care fac parte. Aceștia își pot selecta clasa doar dacă tu ca profesor deblochezi în prealabil acea clasă.
