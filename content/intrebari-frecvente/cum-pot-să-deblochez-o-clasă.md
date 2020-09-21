@@ -21,7 +21,7 @@ Pentru a debloca o clasă din contul tău de profesor trebuie să urmezi pașii:
 
 ![](/img/clase1.jpg)
 
-![](/img/Screenshot_60.jpg)
+![](/img/Screenshot_61.jpg)
 
 
 
