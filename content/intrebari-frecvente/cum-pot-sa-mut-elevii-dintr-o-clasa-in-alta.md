@@ -19,7 +19,8 @@ Poți urma acești pași:
 
 1. Adaugă noua clasă din contul tău de profesor dacă nu ai făcut-o deja: *Profil* > *Profil privat* > *modifică* > *selectează clasele* > *Adaugă o clasă* > nu uita să apeși butonul *SALVEAZĂ*.
 
-2. Deblochează clasa nouă: *Clase* > alege noua clasă > *Conturi* > *Deblochează*
+2. Deblochează clasa nouă: *Clase* > alege noua clasă > *Conturi* > *Deblochează*.
+(Pentru a putea debloca o clasă trebuie să fii administrator de clase. Pentru obține acest statut trebuie să ne scrii un mesaj folosind formularul de contact din cadrul aplicației de la secțiunea Info -> Contact).
 
 3. Vezi contul și parola elevului: *Clase* > alege vechea clasa > *Conturi* > click pe ochiul din dreptul elevului. (Sau poți să apeși butonul „Generează PDF” pentru a avea acces rapid la toate conturile și parolele.)
 
