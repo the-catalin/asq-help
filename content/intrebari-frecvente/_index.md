@@ -10,11 +10,11 @@ slug: intrebari-frecvente
 
 - ### [Cum adaug clasele mele?](/intrebari-frecvente/cum-adaug-clasele-mele/)
 - ### [Cum modific structura claselor mele?](/intrebari-frecvente/cum-modific-structura-claselor-mele/)
-- ### [Cum pot scoate contul unui elev din clasa mea?](/intrebari-frecvente/cum-pot-scoate-contul-unui-elev-din-clasa-mea/)
 - ### [Cum pot să promovez o clasă sau să modific anul și litera clasei?](/intrebari-frecvente/cum-promovez-o-clasa-sau-modific-litera-si-anul-clasei/)
 - ### [Cum pot să mut elevii dintr-o clasă în alta?](/intrebari-frecvente/cum-pot-sa-mut-elevii-dintr-o-clasa-in-alta/)
-- ### [Cum limitez accesul altor elevi în clasa creată de mine?](/intrebari-frecvente/cum-limitez-accesul-altor-elevi-in-clasa-creata-de-mine/)
 - ### [Cum pot să deblochez o clasă?](/intrebari-frecvente/cum-pot-sa-deblochez-o-clasa/)
+- ### [Cum pot scoate contul unui elev din clasa mea?](/intrebari-frecvente/cum-pot-scoate-contul-unui-elev-din-clasa-mea/)
+- ### [Cum limitez accesul altor elevi în clasa creată de mine?](/intrebari-frecvente/cum-limitez-accesul-altor-elevi-in-clasa-creata-de-mine/)
 - ### [Cum adaug alți profesori în clasele create de mine?](/intrebari-frecvente/cum-adaug-alti-profesori-la-clasele-create-de-mine/)
 - ### [De ce elevii mei nu pot vedea materialele create de mine?](/intrebari-frecvente/de-ce-elevii-mei-nu-pot-vedea-materialele-create-de-mine/)
 - ### [De ce colegii mei nu pot vedea materialele adăugate de mine?](/intrebari-frecvente/de-ce-colegii-mei-nu-pot-vedea-materialele-adaugate-de-mine/)
