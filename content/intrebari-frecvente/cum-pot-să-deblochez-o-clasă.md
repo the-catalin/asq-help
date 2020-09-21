@@ -25,4 +25,4 @@ Pentru a debloca o clasă din contul tău de profesor trebuie să urmezi pașii:
 
 ![](/img/Screenshot_61.jpg)
 
-3. După ce și-au selectat clasa toți elevii trebuie să o blochezi înapoi pentru a nu permite conturilor neautorizate să intre în clasă.
+3. După ce și-au selectat toți elevii clasa trebuie să o blochezi înapoi pentru a nu permite conturilor neautorizate să intre în clasă.
