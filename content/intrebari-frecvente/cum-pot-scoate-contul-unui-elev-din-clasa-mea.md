@@ -9,9 +9,7 @@ slug: cum-pot-scoate-contul-unui-elev-din-clasa-mea
 
 # Cum pot scoate contul unui elev din clasa mea?
 
-Pentru a putea scoate contul unui elev (cont creat greșit sau cont duplicat) din clasele la care ești profesor, trebuie să ne trimiți un email la {{< img src="/img/contact.jpg">}} în care să specifici că dorești să devii administrator ASQ pe clasele din școala ta.
-
-Există deja funcționalitatea prin care profesorii pot administra conturile dintr-o clasă, este nevoie doar de o verificare suplimentară.
+Pentru a putea scoate contul unui elev (cont creat greșit sau cont duplicat) din clasele la care ești profesor, trebuie să soliciți în prealabil drept de administrare a claselor folosind formularul de contact din cadrul aplicației (Info -> Contact).
 
 Mai jos sunt evidențiate funcționalitățile pe care le ai în plus atunci când ești administrator de clase.
 
