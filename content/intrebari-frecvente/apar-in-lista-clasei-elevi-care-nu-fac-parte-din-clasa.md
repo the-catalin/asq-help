@@ -3,6 +3,11 @@ title: După selectarea unei clase noi apar în lista clasei elevi care nu fac
   parte din această clasă
 slug: apar-in-lista-clasei-elevi-care-nu-fac-parte-din-clasa
 ---
+
+[< Înapoi la **Întrebări frecvente**](/intrebari-frecvente/)
+
+# După selectarea unei clase noi apar în lista clasei elevi care nu fac parte din această clasă
+
 După ce ai selectat o clasă nouă în zona ta de Profil (conform pașilor de [aici](/intrebari-frecvente/cum-modific-structura-claselor-mele/)) există posibilitatea de a găsi  (la secțiunea Clase > Conturi) o listă cu mai mulți elevi înscriși deja în acea clasă.
 
 Acest lucru se întâmplă din cauza faptului că un alt profesor a creat componența acelei clase într-un an școlar anterior, dar nu a mai promovat clasa.

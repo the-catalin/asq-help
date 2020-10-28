@@ -16,6 +16,7 @@ slug: intrebari-frecvente
 - ### [Cum pot scoate contul unui elev din clasa mea?](/intrebari-frecvente/cum-pot-scoate-contul-unui-elev-din-clasa-mea/)
 - ### [Cum limitez accesul altor elevi în clasa creată de mine?](/intrebari-frecvente/cum-limitez-accesul-altor-elevi-in-clasa-creata-de-mine/)
 - ### [Cum adaug alți profesori în clasele create de mine?](/intrebari-frecvente/cum-adaug-alti-profesori-la-clasele-create-de-mine/)
+- ### [În lista clasei apar elevi care nu fac parte din clasă](/intrebari-frecvente/apar-in-lista-clasei-elevi-care-nu-fac-parte-din-clasa/)
 - ### [De ce elevii mei nu pot vedea materialele create de mine?](/intrebari-frecvente/de-ce-elevii-mei-nu-pot-vedea-materialele-create-de-mine/)
 - ### [De ce colegii mei nu pot vedea materialele adăugate de mine?](/intrebari-frecvente/de-ce-colegii-mei-nu-pot-vedea-materialele-adaugate-de-mine/)
 - ### [Cum procedez dacă sunt profesor la mai mule școli?](/intrebari-frecvente/cum-procedez-daca-sunt-profesor-la-mai-multe-scoli/)
