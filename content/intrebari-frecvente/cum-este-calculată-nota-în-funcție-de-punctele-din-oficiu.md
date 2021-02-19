@@ -13,7 +13,7 @@ La configurarea unei evaluări, poți stabili ca toate notele testelor din cadru
 Calculul notei se face **proporțional și echitabil** pentru toți elevii în funcție de punctele din oficiu.
 
 Ca exemplu, o modalitate neechitabilă este de a da tuturor elevilor un test cu 1 punct din oficiu, iar la final, pentru că nu dorești să notezi cu 1 în catalog, celor care au obținut
-sub nota 3, vor avea automat nota 3 în catalog. Asta înseamnă că cel care a obținut nota 1 la test (niciun răspuns corect) și cel care a obținut nota 3,40 (a dat câteva răspunsuri corecte), obțin aceeași notă minimă în catalog: 3.
+note mai mici sau egale cu 3, vor avea automat nota 3 în catalog. Asta înseamnă că cel care a obținut nota 1 la test (niciun răspuns corect) și cel care a obținut nota 3,40 (a dat câteva răspunsuri corecte), obțin aceeași notă minimă în catalog: 3.
 
 Astfel, mergând pe același exemplu, un calcul corect este următorul:
 - cel care a obținut nota 1 la test, pentru că nu a dat niciun răspuns corect, primește 3 în catalog
