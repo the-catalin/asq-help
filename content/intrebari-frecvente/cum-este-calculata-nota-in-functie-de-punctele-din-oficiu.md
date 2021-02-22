@@ -16,8 +16,8 @@ Ca un contraexemplu, o modalitate simplificată de notare ar fi de a da tuturor 
 note mai mici sau egale cu 3 vor primi nota 3 în catalog. Asta înseamnă că atât cel care a obținut nota 1 la test (niciun răspuns corect), cât și cel care a obținut 3,40 (a dat câteva răspunsuri corecte), vor avea aceeași notă minimă în catalog: 3.
 
 Continuând cu același exemplu, un calcul corect este următorul:
-- cel care a obținut nota 1, pentru că nu a dat niciun răspuns corect, primește 3 în catalog;
-- cel care a obținut nota 3,40 înseamnă că a primit de fapt 2,40 puncte din 9. A răspuns corect în proporție de 26,6% (a rezolvat un sfert din test). Astfel, pentru că avem 3 puncte din oficiu, vom acorda 26,6% din 7 puncte. Vom oferi deci 1,87 puncte din 7, plus cele 3 din oficiu, adică nota finală 4,87.
+- elevul care a obținut nota 1, pentru că nu a dat niciun răspuns corect, primește 3 în catalog;
+- elevul care a obținut nota 3,40 înseamnă că a primit de fapt 2,40 puncte din 9. A răspuns corect în proporție de 26,6% (a rezolvat un sfert din test). Astfel, pentru că avem 3 puncte din oficiu, vom acorda 26,6% din 7 puncte. Vom oferi deci 1,87 puncte din 7, plus cele 3 din oficiu, adică nota finală 4,87.
 
 Toate aceste calcule ce țin de proporționalitatea punctajelor în funcție de punctele din oficiu **sunt realizate automat la toate evaluările ASQ**. Dacă stabilești deci 4 puncte din oficiu la o evaluare, toate notele de 1 se transformă în 4, iar restul notelor sunt calculate proporțional conform regulilor de calcul de mai sus.
 
