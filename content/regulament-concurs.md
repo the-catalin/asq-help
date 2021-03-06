@@ -57,7 +57,7 @@ Punctele merit se acumulează adăugând pe aplicația ASQ [exerciții, teste, v
 
 Citește [**aici**](/puncte-merit-si-medalii/) mai multe detalii despre punctele merit.
 
-Rezultatele concursului vor fi făcute publice până la data de 14.08.2020 pe [pagina de Facebook ASQ](https://www.facebook.com/asq.romania).
+Rezultatele concursului vor fi făcute publice până la data de 30.03.2020 pe [pagina de Facebook ASQ](https://www.facebook.com/asq.romania).
 
 
 ### 7. Drepturi de autor
