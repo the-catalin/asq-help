@@ -23,7 +23,7 @@ Citește [**aici**](/creare-materiale/) mai multe aspecte despre crearea materia
 
 ### 2. Perioada de desfășurare a concursului
 
-Concursul se desfășoară în perioada 23.07 - 12.08.2020.
+Concursul se desfășoară în perioada 06.03 - 27.03.2021.
 
 ### 3. Înscrierea în concurs
 
@@ -49,9 +49,9 @@ Procedura de înscriere a unui material educațional digital în concurs pe Plat
 
 La finalul concursului, trei profesori care au acumulat cel mai mare număr de *puncte merit* vor primi, în ordine, unul dintre cele trei premii oferite:
 
-Premiul I - Tableta Huawei MediaPad T3 10\
-Premiul II - Tabletă grafică Wacom Intuos S Bluetooth\
-Premiul III - Cameră web Logitech C270
+Premiul I - Telefon mobil Samsung Galaxy A51 \
+Premiul II - Tabletă Huawei MediaPad T3 10 \
+Premiul III - Tabletă grafică Wacom Intuos S 
 
 Punctele merit se acumulează adăugând pe aplicația ASQ [exerciții, teste, videouri sau documente](/exercitii-teste-videouri/).
 
