@@ -41,7 +41,7 @@ Materialele digitale înscrise în concurs trebuie să fie creații proprii și 
 
 ### 5. Utilizarea contului ASQ pentru crearea materialelor
 
-Procedura de înscriere a unui material educațional digital în concurs pe Platforma ASQ presupune crearea unui singur cont de utilizator de tip profesor (utilizând o adresă de e-mail sau prin logare cu Facebook) la adresa [asq.ro/app](https://asq.ro/app/), logarea pe platformă și adăugarea de materiale, respectând regulile de [aici](/creare-materiale/).
+Procedura de înscriere a unui material educațional digital în concurs pe Platforma ASQ presupune crearea unui singur cont de utilizator de tip profesor (utilizând o adresă de e-mail sau prin logare cu Facebook) la adresa [app.asq.ro](https://app.asq.ro/), logarea pe platformă și adăugarea de materiale, respectând regulile de [aici](/creare-materiale/).
 
 *Atenție!* Un profesor trebuie să folosească un singur cont ASQ la crearea materialelor.
 
