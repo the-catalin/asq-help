@@ -72,7 +72,7 @@ Crearea de materiale educaționale pe platforma ASQ presupune o cesiune neexclus
 
 Materialele înscrise în concurs vor fi validate din punct de vedere științific de profesori specialiști și, după caz, aprobate pe platforma ASQ pentru a deveni disponibile tuturor utilizatorilor.
 
-Ierarhia profesorilor creatori de conținut este disponibilă, în timp real, pe toată durata de desfășurare a concursului, în cadrul [aplicației ASQ](https://asq.ro/app/), în secțiunea Statistici -> Concurs.
+Ierarhia profesorilor creatori de conținut este disponibilă, în timp real, pe toată durata de desfășurare a concursului, în cadrul [aplicației ASQ](https://app.asq.ro/), în secțiunea Statistici -> Concurs.
 
 Rezultatele concursului vor fi făcute publice până la data de 30.03.2021 pe [pagina de Facebook ASQ](https://www.facebook.com/asq.romania).
 
