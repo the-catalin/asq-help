@@ -25,6 +25,7 @@ slug: intrebari-frecvente
 - ### [Cum integrez jocuri pe aplicatia ASQ?](/intrebari-frecvente/cum-integrez-jocuri-pe-aplicatia-asq/)
 - ### [Cum pot primi certificat de recunoaștere pentru activitatea mea?](/intrebari-frecvente/cum-pot-primi-certificat-de-recunoastere/)
 - ### [Cum este calculată nota în funcție de punctele din oficiu?](/intrebari-frecvente/puncte-din-oficiu/)
+- ### [Cum încorporez resurse externe în ASQ?](/intrebari-frecvente/cum-incorporez-resurse-externe-in-asq/)
 
 ## Elevi
 
