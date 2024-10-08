@@ -36,3 +36,4 @@ slug: intrebari-frecvente
 - ### [Am întâlnit mai multe greșeli. Ce pot să fac?](/intrebari-frecvente/am-intalnit-mai-multe-greseli-ce-pot-sa-fac/)
 - ### [Ce reprezintă numerele din dreptul fiecărei materii, capitol sau lecție?](/intrebari-frecvente/ce-reprezinta-numerele-din-dreptul-fiecarei-materii/)
 - ### [Nu găsesc aplicația ASQ pe App Store sau Google Play. Cum procedez?](/intrebari-frecvente/nu-gasesc-aplicatia-asq-pe-app-store-sau-google-play/)
+- ### [Nu mă mai pot loga cu Facebook](/intrebari-frecvente/nu-ma-mai-pot-loga-cu-facebook/)

@@ -1,0 +1,25 @@
+---
+title: Nu mă mai pot loga cu Facebook
+slug: am-folosit-login-cu-facebook
+---
+
+[< Înapoi la **Întrebări frecvente**](/intrebari-frecvente/)
+
+# Nu mă mai pot loga cu Facebook
+
+Din cauza problemelor de conectare pe care le-am întâmpinat la autentificarea cu Facebook, am decis să reunnțăm la această opțiune de logare.
+
+Cu toate acestea, contul tău nu ASQ nu este pierdut. Îl poți recupera astfel:
+
+Stabilește întâi care este adresa ta de email asociată contului tău Facebook, adică adresa de email pe care o folosești atunci când te loghezi la contul tău de Facebook.
+
+- Dacă este un cont de Gmail (@gmail.com), folosește "Login cu Google"
+
+- Dacă este un oricare alt tip de email (@yahoo.com sau altul) urmează pașii de mai jos:
+
+  1. Alege opțiunea "Login cu email".
+  2. Introdu adresa de email asociată contului tău Facebook.
+  3. Introdu o parolă oarecare - nu conteaza ce parolă introduci pentru că încă nu există de fapt una.
+  4. Încercând să te conectezi astfel, va apărea opțiunea RESETEAZĂ PAROLA. Apasă pe ea și asigură-te că adresa de email este scrisă corect. Apasă pe butonul RESETEAZĂ PAROLA nou apărut.
+  5. Urmează instrucțiunile venite pe email și stabilește o parolă nouă.
+  6. Conectează-te la contul tău folosind "Login cu email".
