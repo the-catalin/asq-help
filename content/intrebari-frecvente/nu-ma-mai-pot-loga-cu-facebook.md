@@ -1,6 +1,6 @@
 ---
 title: Nu mă mai pot loga cu Facebook
-slug: am-folosit-login-cu-facebook
+slug: nu-ma-mai-pot-loga-cu-facebook
 ---
 
 [< Înapoi la **Întrebări frecvente**](/intrebari-frecvente/)
