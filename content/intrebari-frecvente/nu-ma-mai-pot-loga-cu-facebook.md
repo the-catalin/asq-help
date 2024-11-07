@@ -18,8 +18,8 @@ Stabilește întâi care este adresa ta de email asociată contului tău Faceboo
 - Dacă este un oricare alt tip de email (@yahoo.com sau altul) urmează pașii de mai jos:
 
   1. Alege opțiunea "Login cu email".
-  2. Introdu adresa de email asociată contului tău Facebook.
-  3. Introdu o parolă oarecare - nu conteaza ce parolă introduci pentru că încă nu există de fapt una.
-  4. Încercând să te conectezi astfel, va apărea opțiunea RESETEAZĂ PAROLA. Apasă pe ea și asigură-te că adresa de email este scrisă corect. Apasă pe butonul RESETEAZĂ PAROLA nou apărut.
+  2. Apasă pe "Schimbă parola".
+  3. Introdu adresa de email asociată contului tău Facebook.
+  4. Asigură-te că adresa de email este scrisă corect. Apasă pe butonul RESETEAZĂ PAROLA.
   5. Urmează instrucțiunile venite pe email și stabilește o parolă nouă.
   6. Conectează-te la contul tău folosind "Login cu email".
