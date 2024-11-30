@@ -12,4 +12,4 @@ slug: nu-gasesc-aplicatia-asq-pe-app-store-sau-google-play
 Linkurile directe către aplicația ASQ sunt:
 
 - [App Store](https://apps.apple.com/us/app/asq/id6737578389)
-- [Google Play](https://play.google.com/store/apps/details?id=ro.asq.app)
+- [Google Play](https://play.google.com/store/apps/details?id=ro.asq)
