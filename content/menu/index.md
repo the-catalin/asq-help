@@ -9,7 +9,7 @@ headless = true
   - [Evoluție individuală elevi]({{< relref "/evolutie-individuala-elevi" >}})
   - [Creare conturi elevi]({{< relref "/creare-conturi-elevi" >}})
   - [Crearea materialelor pe platformă]({{< relref "/creare-materiale" >}})
-    - [Reguli generale]({{< relref "/reguli-generale" >}})
+    - [Criterii generale]({{< relref "/criterii-generale" >}})
     - [Capitole și lecții]({{< relref "/capitole-si-lectii" >}})
     - [Structura unei lecții]({{< relref "/structura-unei-lectii" >}})
     - [Exerciții, teste, videouri]({{< relref "/exercitii-teste-videouri" >}})

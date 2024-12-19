@@ -9,4 +9,4 @@ slug: cum-trebuie-sa-arate-un-material-pentru-a-fi-aprobat
 
 # Cum trebuie să arate un material pentru a fi aprobat?
 
-Un material marcat ca fiind [disponibil tuturor utilizatorilor](/creare-materiale#cum-sunt-folosite-materialele-create-de-mine) va fi aprobat de un profesor administrator dacă respectă [regulile generale de editare](/reguli-generale/).
+Un material marcat ca fiind [disponibil tuturor utilizatorilor](/creare-materiale#cum-sunt-folosite-materialele-create-de-mine) va fi aprobat de un profesor administrator dacă respectă [criteriile generale de editare](/criterii-generale/).
