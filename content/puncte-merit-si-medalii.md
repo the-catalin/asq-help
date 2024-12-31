@@ -24,9 +24,10 @@ Notă: punctele merit corespunzătoare unui material sunt adăugate în momentul
 
 ---
 
-## Creșterea în nivel 
+## Creșterea în nivel
+ 
 
-{{< img src="/img/author-total-example.png">}}
+{{< img class="inline-image" src="/img/author-total-example.png">}}
 
 Nivelul unui autor este determinat strict de valoarea totală a punctelor merit. Pentru a trece la un nivel superior trebuie acumulat un anumit număr de puncte. Odată cu creșterea în nivel, valoarea necesară de puncte merit pentru a avansa în nivel crește progresiv. De exemplu, pentru a trece de la nivelul 2 la nivelul 3 sunt necesare 500 de puncte, iar pentru a urca de la nivelul 4 la 5 ai nevoie de 900 de puncte, șamd.
 
@@ -35,10 +36,14 @@ Nivelul unui autor este determinat strict de valoarea totală a punctelor merit.
 ## Medaliile
 
 Medaliile reflectă tipul de activitate ca profesor autor pe platforma ASQ. Astfel, se acordă medalii specifice pentru:
-* crearea de teste {{< img src="/img/author-test.png">}}, exerciții {{< img src="/img/author-exercise.png">}}, videouri {{< img src="/img/author-video.png">}}, documente {{< img src="/img/author-document.png">}}
-* verificarea și corectarea materialelor create de alți profesori {{< img src="/img/author-verification.png">}}
-* gradul de atenție la detalii în editarea materialelor {{< img src="/img/author-perfection.png">}}
-* adăugarea de soluții cu explicații de rezolvare la conceperea exercițiilor {{< img src="/img/author-solution.png">}}
-* medalii specifice pentru fiecare disciplină {{< img src="/img/author-primar.png">}} {{< img src="/img/author-100.png">}} {{< img src="/img/author-200.png">}} {{< img src="/img/author-300.png">}} {{< img src="/img/author-400.png">}} {{< img src="/img/author-500.png">}} {{< img src="/img/author-700.png">}}
+* crearea de teste {{< img class="inline-image" src="/img/author-test.png">}}, exerciții {{< img class="inline-image" src="/img/author-exercise.png">}}, videouri {{< img class="inline-image" src="/img/author-video.png">}}, documente {{< img class="inline-image" src="/img/author-document.png">}}
+* verificarea și corectarea materialelor create de alți profesori
+ {{< img class="inline-image" src="/img/author-verification.png">}}
+* gradul de atenție la detalii în editarea materialelor
+ {{< img class="inline-image" src="/img/author-perfection.png">}}
+* adăugarea de soluții cu explicații de rezolvare la conceperea exercițiilor
+ {{< img class="inline-image" src="/img/author-solution.png">}}
+* medalii specifice pentru fiecare disciplină
+ {{< img class="inline-image" src="/img/author-primar.png">}} {{< img class="inline-image" src="/img/author-100.png">}} {{< img class="inline-image" src="/img/author-200.png">}} {{< img class="inline-image" src="/img/author-300.png">}} {{< img class="inline-image" src="/img/author-400.png">}} {{< img class="inline-image" src="/img/author-500.png">}} {{< img class="inline-image" src="/img/author-700.png">}}
 
 Fiecărei medalii i se asociază un nivel. Acest nivel se calculează similar cu nivelul general dat de punctele merit.

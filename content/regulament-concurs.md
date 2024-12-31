@@ -82,11 +82,11 @@ Rezultatele concursului vor fi făcute publice până la data de 30.03.2021 pe [
 Organizatorul își rezervă dreptul de a modifica sau schimba prezentul regulament, notificările în acest sens vor fi făcute pe
 [pagina de Facebook ASQ](https://www.facebook.com/asq.romania).
 
-Pentru informații suplimentare ne puteți contacta la {{< img src="/img/contact.jpg">}}.
+Pentru informații suplimentare ne puteți contacta la {{< img class="inline-image" src="/img/contact.jpg">}}.
 
 ### 10. Reclamații și litigii
 
-Orice reclamație care are legătură cu desfășurarea concursului va fi adresată în scris organizatorului, prin email la adresa {{< img src="/img/contact.jpg">}}, în termen de cel mult două zile de la data la care s-a produs evenimentul reclamat.
+Orice reclamație care are legătură cu desfășurarea concursului va fi adresată în scris organizatorului, prin email la adresa {{< img class="inline-image" src="/img/contact.jpg">}}, în termen de cel mult două zile de la data la care s-a produs evenimentul reclamat.
 
 ### 11. Prelucrarea datelor cu caracter personal
 

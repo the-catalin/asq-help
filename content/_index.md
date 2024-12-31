@@ -7,12 +7,13 @@ date: 2020-04-07T00:12:36+03:00
 
 ## Întrebări frecvente
 
-- [Cum pot scoate contul unui elev din clasa mea?](/intrebari-frecvente/cum-pot-scoate-contul-unui-elev-din-clasa-mea/)
-- [De ce elevii mei nu pot vedea materialele create de mine?](/intrebari-frecvente/de-ce-elevii-mei-nu-pot-vedea-materialele-create-de-mine/)
-- [De ce colegii mei nu pot vedea materialele adăugate de mine?](/intrebari-frecvente/de-ce-colegii-mei-nu-pot-vedea-materialele-adaugate-de-mine/)
-- [Cum adaug alți profesori în clasele create de mine?](/intrebari-frecvente/cum-adaug-alti-profesori-la-clasele-create-de-mine/)
+### [Întrebări frecvente ale profesorilor](/intrebari-frecvente-ale-profesorilor/)
 
-[mai multe **întrebări frecvente**...](/intrebari-frecvente/)
+### [Întrebări frecvente ale părinților](/intrebari-frecvente-ale-parintilor/)
+
+### [Întrebări frecvente ale elevilor](/intrebari-frecvente-ale-elevilor/)
+
+### [Întrebări frecvente generale](/intrebari-frecvente-generale/)
 
 <--->
 

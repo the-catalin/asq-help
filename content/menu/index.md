@@ -1,9 +1,15 @@
-+++
-headless = true
-+++
+---
+title: 'ASQ Help'
+date: 2020-04-07T00:12:36+03:00
+---
 
-- [Întrebări frecvente]({{< relref "/intrebari-frecvente" >}})
+- - [Întrebări frecvente ale profesorilor]({{< relref "/intrebari-frecvente-ale-profesorilor" >}})
+  - [Întrebări frecvente ale părinților]({{< relref "/intrebari-frecvente-ale-parintilor" >}})
+  - [Întrebări frecvente ale elevilor]({{< relref "/intrebari-frecvente-ale-elevilor" >}})
+  - [Întrebări frecvente generale]({{< relref "/intrebari-frecvente-generale" >}})
+
 - Profesori
+
   - [Urmărirea activității în timp real]({{< relref "/urmarirea-activitatii-elevilor-in-timp-real" >}})
   - [Crearea temelor]({{< relref "/creare-teme-elevi" >}})
   - [Evoluție individuală elevi]({{< relref "/evolutie-individuala-elevi" >}})

@@ -29,4 +29,4 @@ slug: criterii-generale
 
    Citește mai multe despre [criteriile la introducerea răspunsurilor](/raspunsuri/).
 
-8. Dacă ai bifat opțiunea "Publică numele meu ca autor", asigură-te că numele tău este scris corect în zona de profil. Nu trebuie să fie scris, de exemplu, doar cu litere mari. Pentru a-ți modifica numele, mergi la **Profil > modifică > editează date personale**.
+8. Dacă ai bifat opțiunea "Publică numele meu ca autor", asigură-te că numele tău este scris corect în zona de profil. Nu trebuie să fie scris, de exemplu, doar cu litere mari. Pentru a-ți modifica numele, mergi la **Opțiuni > modifică > editează date personale**.

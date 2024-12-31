@@ -42,11 +42,11 @@ A nu se confunda nivelul cu trei steluțe (**3 - dificil**), cu cel **mediu**. M
 
 # Ce reprezintă "test vizibil"?
 
-Atunci când un material **nu** este bifat ca fiind vizibil, atunci el este ascuns și doar tu ești cel care poate vedea și accesa acest material.
+Atunci când un material **nu** este bifat în mod explicit ca fiind vizibil, atunci el este ascuns și doar tu ești cel care poate vedea și accesa acest material.
 
-Marcarea unui test ca fiind invizibil este utilă în situația în care dorești să ții ascunse întrebările până la momentul în care dai testul tuturor elevilor tăi. Astfel, ei nu au nicio posibilitate de a vedea testul și întrebările din cadrul acestuia, decât în momentul programat de tine. Atunci când dorești să înceapă testul, în timpul orei la școală sau într-o conferință online, marchezi pe loc testul ca fiind vizibil, astfel materialul va putea fi accesat imediat de către toți elevii tăi.
+Păstrarea unui material în mod invizibil este utilă în situația în care dorești să ții ascunse întrebările până la momentul în care dai testul tuturor elevilor tăi. Astfel, ei nu au nicio posibilitate de a vedea testul și întrebările din cadrul acestuia, decât în momentul programat de tine. Atunci când dorești să înceapă testul, în timpul orei la școală sau într-o conferință online, marchezi pe loc testul ca fiind vizibil, astfel materialul va putea fi accesat imediat de către toți elevii tăi.
 
-Marcarea unui material ca fiind invizibil mai este utilă atunci când nu ai terminat de ediat toate întrebările și răspunsurile din cadrul acelui material.
+Păstrarea unui material în mod invizibil mai este utilă atunci când nu ai terminat de editat toate întrebările și răspunsurile din cadrul acelui material.
 
 ---
 

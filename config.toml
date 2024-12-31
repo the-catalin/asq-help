@@ -23,4 +23,7 @@ googleAnalytics = "UA-106398114-1"
   # You can also set value to "*" to render all sections to menu
   # BookSection = 'docs'
 
-  
+# [markup]
+#   [markup.goldmark]
+#     [markup.goldmark.renderer]
+#       unsafe = true
