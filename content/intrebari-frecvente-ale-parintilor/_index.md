@@ -18,4 +18,8 @@ slug: intrebari-frecvente-ale-parintilor
 
 ---
 
-## [Întrebări frecvente generale](/intrebari-frecvente-generale/)
+### [Întrebări frecvente ale profesorilor](/intrebari-frecvente-ale-profesorilor/)
+
+### [Întrebări frecvente ale elevilor](/intrebari-frecvente-ale-elevilor/)
+
+### [Întrebări frecvente generale](/intrebari-frecvente-generale/)

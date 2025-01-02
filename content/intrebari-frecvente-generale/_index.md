@@ -23,8 +23,8 @@ aliases:
 
 ---
 
-## [Întrebări frecvente ale profesorilor](/intrebari-frecvente-ale-profesorilor/)
+### [Întrebări frecvente ale profesorilor](/intrebari-frecvente-ale-profesorilor/)
 
-## [Întrebări frecvente ale părinților](/intrebari-frecvente-ale-parintilor/)
+### [Întrebări frecvente ale părinților](/intrebari-frecvente-ale-parintilor/)
 
-## [Întrebări frecvente ale elevilor](/intrebari-frecvente-ale-elevilor/)
+### [Întrebări frecvente ale elevilor](/intrebari-frecvente-ale-elevilor/)
