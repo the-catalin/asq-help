@@ -9,8 +9,8 @@ slug: intrebari-frecvente-ale-parintilor
 ## Întrebări frecvente ale părinților
 
 - ### [Cum adaug copilul meu în aplicație?](/intrebari-frecvente-ale-parintilor/cum-adaug-copilul-meu-in-aplicatie/)
-
-&nbsp;
+- ### [Cum ajut copilul meu la teme?](/intrebari-frecvente-ale-parintilor/cum-ajut-copilul-meu-la-teme/)
+  &nbsp;
 
 &nbsp;
 
