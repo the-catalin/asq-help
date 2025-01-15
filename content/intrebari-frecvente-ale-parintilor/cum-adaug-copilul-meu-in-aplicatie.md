@@ -7,7 +7,7 @@ slug: cum-adaug-copilul-meu-in-aplicatie
 
 # Cum adaug copilul meu în aplicație?
 
-În primă instanță, trebuie să generezi codul de patru caractere din contul copilului tău. Vezi [aici](/intrebari-frecvente-ale-elevilor/cum-generez-codul-pentru-parinti/) cum poți obține acest cod.
+În primă instanță, trebuie să generezi codul de patru caractere **din contul copilului tău**. Atenție! Nu poți genera codul din contul de părinte, ci doar din cel al copilului. Vezi [aici](/intrebari-frecvente-ale-elevilor/cum-generez-codul-pentru-parinti/) cum se poate obține acest cod.
 
 Apoi, pentru a adăuga copilul tău în aplicație, accesează **Opțiuni > Familie > Adaugă copil**:
 
