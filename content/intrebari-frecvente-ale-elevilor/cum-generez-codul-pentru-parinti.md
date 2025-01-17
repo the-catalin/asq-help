@@ -7,7 +7,7 @@ slug: cum-generez-codul-pentru-parinti
 
 # Cum generez codul pentru parinți?
 
-Pentru a genera codul pentru parinți, accesează **Opțiuni > Familie > Generează cod**:
+Pentru a genera codul pentru parinți, din contul de elev accesează **Opțiuni > Familie > Generează cod**:
 
 {{< img src="/img/elev-familie.png" width="420" height="700" >}}
 
