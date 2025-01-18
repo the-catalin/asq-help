@@ -7,7 +7,7 @@ slug: cum-ajut-copilul-meu-la-teme
 
 ---
 
-Vă oferim câteva recomandări cu privire la ajutorul pe care îl puteți oferii copiilor atunci când rezolvă temele pe platforma ASQ. Acestea sunt rezultatul observațiilor profesorilor cu care colaborăm și reprezintă sugestii cu caracter general. Fiecare copil este unic, iar metoda potrivită trebuie adaptată în funcție de nevoile sale.
+Vă prezentăm câteva recomandări cu privire la ajutorul pe care îl puteți oferi copiilor atunci când rezolvă temele pe platforma ASQ. Acestea sunt rezultatul observațiilor profesorilor cu care colaborăm și reprezintă sugestii cu caracter general. Fiecare copil este unic, iar metoda potrivită trebuie adaptată în funcție de nevoile sale.
 
 # Cum să ajutați copiii să rezolve corect temele sau testele?
 
